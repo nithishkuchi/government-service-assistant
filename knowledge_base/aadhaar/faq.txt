@@ -1,0 +1,185 @@
+==================================================
+GENERAL INFORMATION
+==================================================
+
+1. Question: What is Aadhaar?
+Answer: Aadhaar is a 12-digit unique identification number issued by the Unique Identification Authority of India (UIDAI) to residents of India based on their biometric and demographic data.
+
+2. Question: Is Aadhaar mandatory in India?
+Answer: Aadhaar is not mandatory for all services, but it is required for certain government schemes, subsidies, and identity verification purposes.
+
+3. Question: Who can apply for Aadhaar?
+Answer: Any resident of India, including children and infants, can apply for Aadhaar regardless of age or gender.
+
+4. Question: What is UIDAI?
+Answer: UIDAI (Unique Identification Authority of India) is the government authority responsible for issuing and managing Aadhaar numbers.
+
+5. Question: Is Aadhaar proof of citizenship?
+Answer: No. Aadhaar is only proof of identity and residence, not proof of citizenship.
+
+6. Question: Can NRIs apply for Aadhaar?
+Answer: Yes, NRIs can apply if they have resided in India for more than 182 days in the last 12 months.
+
+7. Question: What is the validity of Aadhaar?
+Answer: Aadhaar is valid for a lifetime and does not expire.
+
+8. Question: Is Aadhaar free of cost?
+Answer: Yes, enrollment for Aadhaar is completely free.
+
+9. Question: Can a person have more than one Aadhaar?
+Answer: No. Each individual can have only one Aadhaar number.
+
+10. Question: Is Aadhaar linked to PAN mandatory?
+Answer: Yes, linking Aadhaar with PAN is mandatory for income tax filing as per government rules.
+
+==================================================
+ENROLLMENT PROCESS
+==================================================
+
+11. Question: How can I enroll for Aadhaar?
+Answer: Visit an authorized Aadhaar Enrollment Center, fill out the form, and provide biometric and demographic details.
+
+12. Question: What details are collected during enrollment?
+Answer: Name, date of birth, gender, address, mobile number, along with fingerprints, iris scan, and photograph.
+
+13. Question: Can I apply for Aadhaar online?
+Answer: You can book an appointment online, but biometric data must be submitted physically at the center.
+
+14. Question: How long does Aadhaar generation take?
+Answer: It usually takes 7 to 90 days after successful enrollment.
+
+15. Question: What is an EID number?
+Answer: EID (Enrollment ID) is a temporary number given at the time of Aadhaar enrollment used to track application status.
+
+==================================================
+DOCUMENTS REQUIRED
+==================================================
+
+16. Question: What documents are required for Aadhaar enrollment?
+Answer: Proof of Identity (PoI), Proof of Address (PoA), and Proof of Date of Birth (DoB).
+
+17. Question: What can be used as Proof of Identity?
+Answer: Documents like PAN card, passport, voter ID, or driving license.
+
+18. Question: What can be used as Proof of Address?
+Answer: Utility bills, bank statements, passport, or ration card.
+
+19. Question: What can be used as Proof of Date of Birth?
+Answer: Birth certificate, SSLC certificate, passport, or PAN card.
+
+20. Question: Is a mobile number mandatory?
+Answer: No, but it is highly recommended for OTP-based services and updates.
+
+==================================================
+AADHAAR UPDATE & CORRECTIONS
+==================================================
+
+21. Question: Can I update my Aadhaar details?
+Answer: Yes. You can update demographic and biometric details.
+
+22. Question: What details can be updated?
+Answer: Name, address, date of birth, gender, mobile number, and email ID.
+
+23. Question: How can I update Aadhaar details?
+Answer: Online (for address) or by visiting an Aadhaar Seva Kendra.
+
+24. Question: Is there a fee for Aadhaar updates?
+Answer: Yes, a nominal fee (around ₹50) is charged for updates.
+
+25. Question: How many times can I change my name in Aadhaar?
+Answer: Name can be updated only a limited number of times (usually twice).
+
+26. Question: How many times can date of birth be updated?
+Answer: Date of birth can generally be updated only once with valid proof.
+
+27. Question: Can I correct spelling mistakes in Aadhaar?
+Answer: Yes, minor corrections are allowed with supporting documents.
+
+==================================================
+AADHAAR DOWNLOAD & STATUS
+==================================================
+
+28. Question: How can I download Aadhaar?
+Answer: Visit the UIDAI website and download e-Aadhaar using Aadhaar number or EID.
+
+29. Question: What is e-Aadhaar?
+Answer: e-Aadhaar is a digitally signed electronic version of Aadhaar.
+
+30. Question: Is e-Aadhaar valid?
+Answer: Yes, it is legally valid like the physical Aadhaar card.
+
+31. Question: How can I check Aadhaar status?
+Answer: Use the UIDAI website and enter your EID or Aadhaar number.
+
+32. Question: What is masked Aadhaar?
+Answer: Masked Aadhaar hides the first 8 digits and shows only the last 4 digits.
+
+==================================================
+LINKING & USAGE
+==================================================
+
+33. Question: Why is Aadhaar linked to bank accounts?
+Answer: For direct benefit transfer (DBT) and subsidy schemes.
+
+34. Question: Is Aadhaar required for SIM card?
+Answer: It is commonly used for identity verification but not mandatory.
+
+35. Question: Is Aadhaar required for passport?
+Answer: Aadhaar can be used as identity proof but is not mandatory.
+
+36. Question: Can Aadhaar be used as address proof?
+Answer: Yes, it is widely accepted as address proof.
+
+==================================================
+SPECIAL CASES
+==================================================
+
+37. Question: Can children get Aadhaar?
+Answer: Yes, children can get Aadhaar (Baal Aadhaar).
+
+38. Question: Is biometric required for children?
+Answer: No for children below 5 years; biometrics are updated later.
+
+39. Question: What is Baal Aadhaar?
+Answer: Aadhaar issued for children below 5 years, shown in blue color.
+
+40. Question: Do children need to update Aadhaar?
+Answer: Yes, biometric update is mandatory at age 5 and 15.
+
+==================================================
+LOST, DUPLICATE & SECURITY
+==================================================
+
+41. Question: What if I lose my Aadhaar card?
+Answer: You can download e-Aadhaar or order a reprint online.
+
+42. Question: Can I get a duplicate Aadhaar?
+Answer: Yes, you can request a reprint for a small fee.
+
+43. Question: Is Aadhaar data secure?
+Answer: Yes, UIDAI uses strong encryption and security measures.
+
+44. Question: Can someone misuse my Aadhaar?
+Answer: Misuse is rare, but you should avoid sharing OTP and sensitive details.
+
+45. Question: Can I lock my Aadhaar biometrics?
+Answer: Yes, UIDAI allows biometric locking for security.
+
+==================================================
+GRIEVANCES & SUPPORT
+==================================================
+
+46. Question: What to do if Aadhaar update is rejected?
+Answer: Reapply with correct documents or visit the enrollment center.
+
+47. Question: How can I contact UIDAI?
+Answer: Through toll-free number 1947 or UIDAI official website.
+
+48. Question: Can I track update request status?
+Answer: Yes, using the Update Request Number (URN).
+
+49. Question: How long do updates take?
+Answer: Usually 5 to 30 days.
+
+50. Question: How many Aadhaar copies can I get?
+Answer: Unlimited copies can be downloaded or printed anytime.

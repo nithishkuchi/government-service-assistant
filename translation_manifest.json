@@ -1,0 +1,3647 @@
+{
+  "knowledge_base_root": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base",
+  "source_files": [
+    "full_guide.txt",
+    "faq.txt",
+    "voice_points.txt"
+  ],
+  "supported_now": [
+    {
+      "code": "hi",
+      "name": "Hindi",
+      "native_name": "Hindi"
+    },
+    {
+      "code": "bn",
+      "name": "Bengali",
+      "native_name": "Bangla"
+    },
+    {
+      "code": "te",
+      "name": "Telugu",
+      "native_name": "Telugu"
+    },
+    {
+      "code": "mr",
+      "name": "Marathi",
+      "native_name": "Marathi"
+    },
+    {
+      "code": "ta",
+      "name": "Tamil",
+      "native_name": "Tamil"
+    },
+    {
+      "code": "ur",
+      "name": "Urdu",
+      "native_name": "Urdu"
+    },
+    {
+      "code": "gu",
+      "name": "Gujarati",
+      "native_name": "Gujarati"
+    },
+    {
+      "code": "kn",
+      "name": "Kannada",
+      "native_name": "Kannada"
+    },
+    {
+      "code": "ml",
+      "name": "Malayalam",
+      "native_name": "Malayalam"
+    },
+    {
+      "code": "or",
+      "name": "Odia",
+      "native_name": "Odia"
+    },
+    {
+      "code": "pa",
+      "name": "Punjabi",
+      "native_name": "Punjabi"
+    },
+    {
+      "code": "as",
+      "name": "Assamese",
+      "native_name": "Assamese"
+    },
+    {
+      "code": "mai",
+      "name": "Maithili",
+      "native_name": "Maithili"
+    },
+    {
+      "code": "sa",
+      "name": "Sanskrit",
+      "native_name": "Sanskrit"
+    },
+    {
+      "code": "sat",
+      "name": "Santali",
+      "native_name": "Santali"
+    },
+    {
+      "code": "ks",
+      "name": "Kashmiri",
+      "native_name": "Kashmiri"
+    },
+    {
+      "code": "ne",
+      "name": "Nepali",
+      "native_name": "Nepali"
+    },
+    {
+      "code": "sd",
+      "name": "Sindhi",
+      "native_name": "Sindhi"
+    },
+    {
+      "code": "mni",
+      "name": "Manipuri",
+      "native_name": "Meitei"
+    },
+    {
+      "code": "bho",
+      "name": "Bhojpuri",
+      "native_name": "Bhojpuri"
+    },
+    {
+      "code": "hne",
+      "name": "Chhattisgarhi",
+      "native_name": "Chhattisgarhi"
+    },
+    {
+      "code": "mag",
+      "name": "Magahi",
+      "native_name": "Magahi"
+    },
+    {
+      "code": "awa",
+      "name": "Awadhi",
+      "native_name": "Awadhi"
+    }
+  ],
+  "services": [
+    {
+      "service": "aadhaar",
+      "source_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar",
+      "files": [
+        {
+          "filename": "full_guide.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\full_guide.txt",
+          "char_count": 22952
+        },
+        {
+          "filename": "faq.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\faq.txt",
+          "char_count": 7432
+        },
+        {
+          "filename": "voice_points.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\voice_points.txt",
+          "char_count": 6702
+        }
+      ],
+      "targets": [
+        {
+          "code": "hi",
+          "name": "Hindi",
+          "native_name": "Hindi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\hi"
+        },
+        {
+          "code": "bn",
+          "name": "Bengali",
+          "native_name": "Bangla",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\bn"
+        },
+        {
+          "code": "te",
+          "name": "Telugu",
+          "native_name": "Telugu",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\te"
+        },
+        {
+          "code": "mr",
+          "name": "Marathi",
+          "native_name": "Marathi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\mr"
+        },
+        {
+          "code": "ta",
+          "name": "Tamil",
+          "native_name": "Tamil",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\ta"
+        },
+        {
+          "code": "ur",
+          "name": "Urdu",
+          "native_name": "Urdu",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\ur"
+        },
+        {
+          "code": "gu",
+          "name": "Gujarati",
+          "native_name": "Gujarati",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\gu"
+        },
+        {
+          "code": "kn",
+          "name": "Kannada",
+          "native_name": "Kannada",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\kn"
+        },
+        {
+          "code": "ml",
+          "name": "Malayalam",
+          "native_name": "Malayalam",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\ml"
+        },
+        {
+          "code": "or",
+          "name": "Odia",
+          "native_name": "Odia",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\or"
+        },
+        {
+          "code": "pa",
+          "name": "Punjabi",
+          "native_name": "Punjabi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\pa"
+        },
+        {
+          "code": "as",
+          "name": "Assamese",
+          "native_name": "Assamese",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\as"
+        },
+        {
+          "code": "mai",
+          "name": "Maithili",
+          "native_name": "Maithili",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\mai"
+        },
+        {
+          "code": "sa",
+          "name": "Sanskrit",
+          "native_name": "Sanskrit",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\sa"
+        },
+        {
+          "code": "sat",
+          "name": "Santali",
+          "native_name": "Santali",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\sat"
+        },
+        {
+          "code": "ks",
+          "name": "Kashmiri",
+          "native_name": "Kashmiri",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\ks"
+        },
+        {
+          "code": "ne",
+          "name": "Nepali",
+          "native_name": "Nepali",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\ne"
+        },
+        {
+          "code": "sd",
+          "name": "Sindhi",
+          "native_name": "Sindhi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\sd"
+        },
+        {
+          "code": "gom",
+          "name": "Konkani",
+          "native_name": "Konkani",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Konkani directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\gom"
+        },
+        {
+          "code": "doi",
+          "name": "Dogri",
+          "native_name": "Dogri",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Dogri directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\doi"
+        },
+        {
+          "code": "brx",
+          "name": "Bodo",
+          "native_name": "Bodo",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Bodo directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\brx"
+        },
+        {
+          "code": "mni",
+          "name": "Manipuri",
+          "native_name": "Meitei",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\mni"
+        },
+        {
+          "code": "tcy",
+          "name": "Tulu",
+          "native_name": "Tulu",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\tcy"
+        },
+        {
+          "code": "bho",
+          "name": "Bhojpuri",
+          "native_name": "Bhojpuri",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\bho"
+        },
+        {
+          "code": "raj",
+          "name": "Rajasthani",
+          "native_name": "Rajasthani",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\raj"
+        },
+        {
+          "code": "hne",
+          "name": "Chhattisgarhi",
+          "native_name": "Chhattisgarhi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\hne"
+        },
+        {
+          "code": "bgc",
+          "name": "Haryanvi",
+          "native_name": "Haryanvi",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\bgc"
+        },
+        {
+          "code": "mag",
+          "name": "Magahi",
+          "native_name": "Magahi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\mag"
+        },
+        {
+          "code": "awa",
+          "name": "Awadhi",
+          "native_name": "Awadhi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\awa"
+        },
+        {
+          "code": "mwr",
+          "name": "Marwari",
+          "native_name": "Marwari",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\mwr"
+        },
+        {
+          "code": "bns",
+          "name": "Bundeli",
+          "native_name": "Bundeli",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\bns"
+        },
+        {
+          "code": "gon",
+          "name": "Gondi",
+          "native_name": "Gondi",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\gon"
+        },
+        {
+          "code": "kru",
+          "name": "Kurukh",
+          "native_name": "Kurukh",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\aadhaar\\translations\\kru"
+        }
+      ]
+    },
+    {
+      "service": "birth_certificate",
+      "source_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate",
+      "files": [
+        {
+          "filename": "full_guide.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\full_guide.txt",
+          "char_count": 23038
+        },
+        {
+          "filename": "faq.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\faq.txt",
+          "char_count": 12759
+        },
+        {
+          "filename": "voice_points.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\voice_points.txt",
+          "char_count": 16600
+        }
+      ],
+      "targets": [
+        {
+          "code": "hi",
+          "name": "Hindi",
+          "native_name": "Hindi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\hi"
+        },
+        {
+          "code": "bn",
+          "name": "Bengali",
+          "native_name": "Bangla",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\bn"
+        },
+        {
+          "code": "te",
+          "name": "Telugu",
+          "native_name": "Telugu",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\te"
+        },
+        {
+          "code": "mr",
+          "name": "Marathi",
+          "native_name": "Marathi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\mr"
+        },
+        {
+          "code": "ta",
+          "name": "Tamil",
+          "native_name": "Tamil",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\ta"
+        },
+        {
+          "code": "ur",
+          "name": "Urdu",
+          "native_name": "Urdu",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\ur"
+        },
+        {
+          "code": "gu",
+          "name": "Gujarati",
+          "native_name": "Gujarati",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\gu"
+        },
+        {
+          "code": "kn",
+          "name": "Kannada",
+          "native_name": "Kannada",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\kn"
+        },
+        {
+          "code": "ml",
+          "name": "Malayalam",
+          "native_name": "Malayalam",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\ml"
+        },
+        {
+          "code": "or",
+          "name": "Odia",
+          "native_name": "Odia",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\or"
+        },
+        {
+          "code": "pa",
+          "name": "Punjabi",
+          "native_name": "Punjabi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\pa"
+        },
+        {
+          "code": "as",
+          "name": "Assamese",
+          "native_name": "Assamese",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\as"
+        },
+        {
+          "code": "mai",
+          "name": "Maithili",
+          "native_name": "Maithili",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\mai"
+        },
+        {
+          "code": "sa",
+          "name": "Sanskrit",
+          "native_name": "Sanskrit",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\sa"
+        },
+        {
+          "code": "sat",
+          "name": "Santali",
+          "native_name": "Santali",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\sat"
+        },
+        {
+          "code": "ks",
+          "name": "Kashmiri",
+          "native_name": "Kashmiri",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\ks"
+        },
+        {
+          "code": "ne",
+          "name": "Nepali",
+          "native_name": "Nepali",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\ne"
+        },
+        {
+          "code": "sd",
+          "name": "Sindhi",
+          "native_name": "Sindhi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\sd"
+        },
+        {
+          "code": "gom",
+          "name": "Konkani",
+          "native_name": "Konkani",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Konkani directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\gom"
+        },
+        {
+          "code": "doi",
+          "name": "Dogri",
+          "native_name": "Dogri",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Dogri directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\doi"
+        },
+        {
+          "code": "brx",
+          "name": "Bodo",
+          "native_name": "Bodo",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Bodo directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\brx"
+        },
+        {
+          "code": "mni",
+          "name": "Manipuri",
+          "native_name": "Meitei",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\mni"
+        },
+        {
+          "code": "tcy",
+          "name": "Tulu",
+          "native_name": "Tulu",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\tcy"
+        },
+        {
+          "code": "bho",
+          "name": "Bhojpuri",
+          "native_name": "Bhojpuri",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\bho"
+        },
+        {
+          "code": "raj",
+          "name": "Rajasthani",
+          "native_name": "Rajasthani",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\raj"
+        },
+        {
+          "code": "hne",
+          "name": "Chhattisgarhi",
+          "native_name": "Chhattisgarhi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\hne"
+        },
+        {
+          "code": "bgc",
+          "name": "Haryanvi",
+          "native_name": "Haryanvi",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\bgc"
+        },
+        {
+          "code": "mag",
+          "name": "Magahi",
+          "native_name": "Magahi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\mag"
+        },
+        {
+          "code": "awa",
+          "name": "Awadhi",
+          "native_name": "Awadhi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\awa"
+        },
+        {
+          "code": "mwr",
+          "name": "Marwari",
+          "native_name": "Marwari",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\mwr"
+        },
+        {
+          "code": "bns",
+          "name": "Bundeli",
+          "native_name": "Bundeli",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\bns"
+        },
+        {
+          "code": "gon",
+          "name": "Gondi",
+          "native_name": "Gondi",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\gon"
+        },
+        {
+          "code": "kru",
+          "name": "Kurukh",
+          "native_name": "Kurukh",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\birth_certificate\\translations\\kru"
+        }
+      ]
+    },
+    {
+      "service": "caste_certificate",
+      "source_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate",
+      "files": [
+        {
+          "filename": "full_guide.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\full_guide.txt",
+          "char_count": 18132
+        },
+        {
+          "filename": "faq.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\faq.txt",
+          "char_count": 12858
+        },
+        {
+          "filename": "voice_points.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\voice_points.txt",
+          "char_count": 15220
+        }
+      ],
+      "targets": [
+        {
+          "code": "hi",
+          "name": "Hindi",
+          "native_name": "Hindi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\hi"
+        },
+        {
+          "code": "bn",
+          "name": "Bengali",
+          "native_name": "Bangla",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\bn"
+        },
+        {
+          "code": "te",
+          "name": "Telugu",
+          "native_name": "Telugu",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\te"
+        },
+        {
+          "code": "mr",
+          "name": "Marathi",
+          "native_name": "Marathi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\mr"
+        },
+        {
+          "code": "ta",
+          "name": "Tamil",
+          "native_name": "Tamil",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\ta"
+        },
+        {
+          "code": "ur",
+          "name": "Urdu",
+          "native_name": "Urdu",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\ur"
+        },
+        {
+          "code": "gu",
+          "name": "Gujarati",
+          "native_name": "Gujarati",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\gu"
+        },
+        {
+          "code": "kn",
+          "name": "Kannada",
+          "native_name": "Kannada",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\kn"
+        },
+        {
+          "code": "ml",
+          "name": "Malayalam",
+          "native_name": "Malayalam",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\ml"
+        },
+        {
+          "code": "or",
+          "name": "Odia",
+          "native_name": "Odia",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\or"
+        },
+        {
+          "code": "pa",
+          "name": "Punjabi",
+          "native_name": "Punjabi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\pa"
+        },
+        {
+          "code": "as",
+          "name": "Assamese",
+          "native_name": "Assamese",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\as"
+        },
+        {
+          "code": "mai",
+          "name": "Maithili",
+          "native_name": "Maithili",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\mai"
+        },
+        {
+          "code": "sa",
+          "name": "Sanskrit",
+          "native_name": "Sanskrit",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\sa"
+        },
+        {
+          "code": "sat",
+          "name": "Santali",
+          "native_name": "Santali",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\sat"
+        },
+        {
+          "code": "ks",
+          "name": "Kashmiri",
+          "native_name": "Kashmiri",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\ks"
+        },
+        {
+          "code": "ne",
+          "name": "Nepali",
+          "native_name": "Nepali",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\ne"
+        },
+        {
+          "code": "sd",
+          "name": "Sindhi",
+          "native_name": "Sindhi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\sd"
+        },
+        {
+          "code": "gom",
+          "name": "Konkani",
+          "native_name": "Konkani",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Konkani directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\gom"
+        },
+        {
+          "code": "doi",
+          "name": "Dogri",
+          "native_name": "Dogri",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Dogri directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\doi"
+        },
+        {
+          "code": "brx",
+          "name": "Bodo",
+          "native_name": "Bodo",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Bodo directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\brx"
+        },
+        {
+          "code": "mni",
+          "name": "Manipuri",
+          "native_name": "Meitei",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\mni"
+        },
+        {
+          "code": "tcy",
+          "name": "Tulu",
+          "native_name": "Tulu",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\tcy"
+        },
+        {
+          "code": "bho",
+          "name": "Bhojpuri",
+          "native_name": "Bhojpuri",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\bho"
+        },
+        {
+          "code": "raj",
+          "name": "Rajasthani",
+          "native_name": "Rajasthani",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\raj"
+        },
+        {
+          "code": "hne",
+          "name": "Chhattisgarhi",
+          "native_name": "Chhattisgarhi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\hne"
+        },
+        {
+          "code": "bgc",
+          "name": "Haryanvi",
+          "native_name": "Haryanvi",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\bgc"
+        },
+        {
+          "code": "mag",
+          "name": "Magahi",
+          "native_name": "Magahi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\mag"
+        },
+        {
+          "code": "awa",
+          "name": "Awadhi",
+          "native_name": "Awadhi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\awa"
+        },
+        {
+          "code": "mwr",
+          "name": "Marwari",
+          "native_name": "Marwari",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\mwr"
+        },
+        {
+          "code": "bns",
+          "name": "Bundeli",
+          "native_name": "Bundeli",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\bns"
+        },
+        {
+          "code": "gon",
+          "name": "Gondi",
+          "native_name": "Gondi",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\gon"
+        },
+        {
+          "code": "kru",
+          "name": "Kurukh",
+          "native_name": "Kurukh",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\caste_certificate\\translations\\kru"
+        }
+      ]
+    },
+    {
+      "service": "death_certificate",
+      "source_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate",
+      "files": [
+        {
+          "filename": "full_guide.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\full_guide.txt",
+          "char_count": 11370
+        },
+        {
+          "filename": "faq.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\faq.txt",
+          "char_count": 13438
+        },
+        {
+          "filename": "voice_points.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\voice_points.txt",
+          "char_count": 17039
+        }
+      ],
+      "targets": [
+        {
+          "code": "hi",
+          "name": "Hindi",
+          "native_name": "Hindi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\hi"
+        },
+        {
+          "code": "bn",
+          "name": "Bengali",
+          "native_name": "Bangla",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\bn"
+        },
+        {
+          "code": "te",
+          "name": "Telugu",
+          "native_name": "Telugu",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\te"
+        },
+        {
+          "code": "mr",
+          "name": "Marathi",
+          "native_name": "Marathi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\mr"
+        },
+        {
+          "code": "ta",
+          "name": "Tamil",
+          "native_name": "Tamil",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\ta"
+        },
+        {
+          "code": "ur",
+          "name": "Urdu",
+          "native_name": "Urdu",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\ur"
+        },
+        {
+          "code": "gu",
+          "name": "Gujarati",
+          "native_name": "Gujarati",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\gu"
+        },
+        {
+          "code": "kn",
+          "name": "Kannada",
+          "native_name": "Kannada",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\kn"
+        },
+        {
+          "code": "ml",
+          "name": "Malayalam",
+          "native_name": "Malayalam",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\ml"
+        },
+        {
+          "code": "or",
+          "name": "Odia",
+          "native_name": "Odia",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\or"
+        },
+        {
+          "code": "pa",
+          "name": "Punjabi",
+          "native_name": "Punjabi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\pa"
+        },
+        {
+          "code": "as",
+          "name": "Assamese",
+          "native_name": "Assamese",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\as"
+        },
+        {
+          "code": "mai",
+          "name": "Maithili",
+          "native_name": "Maithili",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\mai"
+        },
+        {
+          "code": "sa",
+          "name": "Sanskrit",
+          "native_name": "Sanskrit",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\sa"
+        },
+        {
+          "code": "sat",
+          "name": "Santali",
+          "native_name": "Santali",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\sat"
+        },
+        {
+          "code": "ks",
+          "name": "Kashmiri",
+          "native_name": "Kashmiri",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\ks"
+        },
+        {
+          "code": "ne",
+          "name": "Nepali",
+          "native_name": "Nepali",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\ne"
+        },
+        {
+          "code": "sd",
+          "name": "Sindhi",
+          "native_name": "Sindhi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\sd"
+        },
+        {
+          "code": "gom",
+          "name": "Konkani",
+          "native_name": "Konkani",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Konkani directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\gom"
+        },
+        {
+          "code": "doi",
+          "name": "Dogri",
+          "native_name": "Dogri",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Dogri directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\doi"
+        },
+        {
+          "code": "brx",
+          "name": "Bodo",
+          "native_name": "Bodo",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Bodo directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\brx"
+        },
+        {
+          "code": "mni",
+          "name": "Manipuri",
+          "native_name": "Meitei",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\mni"
+        },
+        {
+          "code": "tcy",
+          "name": "Tulu",
+          "native_name": "Tulu",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\tcy"
+        },
+        {
+          "code": "bho",
+          "name": "Bhojpuri",
+          "native_name": "Bhojpuri",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\bho"
+        },
+        {
+          "code": "raj",
+          "name": "Rajasthani",
+          "native_name": "Rajasthani",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\raj"
+        },
+        {
+          "code": "hne",
+          "name": "Chhattisgarhi",
+          "native_name": "Chhattisgarhi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\hne"
+        },
+        {
+          "code": "bgc",
+          "name": "Haryanvi",
+          "native_name": "Haryanvi",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\bgc"
+        },
+        {
+          "code": "mag",
+          "name": "Magahi",
+          "native_name": "Magahi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\mag"
+        },
+        {
+          "code": "awa",
+          "name": "Awadhi",
+          "native_name": "Awadhi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\awa"
+        },
+        {
+          "code": "mwr",
+          "name": "Marwari",
+          "native_name": "Marwari",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\mwr"
+        },
+        {
+          "code": "bns",
+          "name": "Bundeli",
+          "native_name": "Bundeli",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\bns"
+        },
+        {
+          "code": "gon",
+          "name": "Gondi",
+          "native_name": "Gondi",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\gon"
+        },
+        {
+          "code": "kru",
+          "name": "Kurukh",
+          "native_name": "Kurukh",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\death_certificate\\translations\\kru"
+        }
+      ]
+    },
+    {
+      "service": "driving_license",
+      "source_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license",
+      "files": [
+        {
+          "filename": "full_guide.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\full_guide.txt",
+          "char_count": 34948
+        },
+        {
+          "filename": "faq.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\faq.txt",
+          "char_count": 8444
+        },
+        {
+          "filename": "voice_points.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\voice_points.txt",
+          "char_count": 25217
+        }
+      ],
+      "targets": [
+        {
+          "code": "hi",
+          "name": "Hindi",
+          "native_name": "Hindi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\hi"
+        },
+        {
+          "code": "bn",
+          "name": "Bengali",
+          "native_name": "Bangla",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\bn"
+        },
+        {
+          "code": "te",
+          "name": "Telugu",
+          "native_name": "Telugu",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\te"
+        },
+        {
+          "code": "mr",
+          "name": "Marathi",
+          "native_name": "Marathi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\mr"
+        },
+        {
+          "code": "ta",
+          "name": "Tamil",
+          "native_name": "Tamil",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\ta"
+        },
+        {
+          "code": "ur",
+          "name": "Urdu",
+          "native_name": "Urdu",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\ur"
+        },
+        {
+          "code": "gu",
+          "name": "Gujarati",
+          "native_name": "Gujarati",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\gu"
+        },
+        {
+          "code": "kn",
+          "name": "Kannada",
+          "native_name": "Kannada",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\kn"
+        },
+        {
+          "code": "ml",
+          "name": "Malayalam",
+          "native_name": "Malayalam",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\ml"
+        },
+        {
+          "code": "or",
+          "name": "Odia",
+          "native_name": "Odia",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\or"
+        },
+        {
+          "code": "pa",
+          "name": "Punjabi",
+          "native_name": "Punjabi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\pa"
+        },
+        {
+          "code": "as",
+          "name": "Assamese",
+          "native_name": "Assamese",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\as"
+        },
+        {
+          "code": "mai",
+          "name": "Maithili",
+          "native_name": "Maithili",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\mai"
+        },
+        {
+          "code": "sa",
+          "name": "Sanskrit",
+          "native_name": "Sanskrit",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\sa"
+        },
+        {
+          "code": "sat",
+          "name": "Santali",
+          "native_name": "Santali",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\sat"
+        },
+        {
+          "code": "ks",
+          "name": "Kashmiri",
+          "native_name": "Kashmiri",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\ks"
+        },
+        {
+          "code": "ne",
+          "name": "Nepali",
+          "native_name": "Nepali",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\ne"
+        },
+        {
+          "code": "sd",
+          "name": "Sindhi",
+          "native_name": "Sindhi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\sd"
+        },
+        {
+          "code": "gom",
+          "name": "Konkani",
+          "native_name": "Konkani",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Konkani directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\gom"
+        },
+        {
+          "code": "doi",
+          "name": "Dogri",
+          "native_name": "Dogri",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Dogri directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\doi"
+        },
+        {
+          "code": "brx",
+          "name": "Bodo",
+          "native_name": "Bodo",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Bodo directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\brx"
+        },
+        {
+          "code": "mni",
+          "name": "Manipuri",
+          "native_name": "Meitei",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\mni"
+        },
+        {
+          "code": "tcy",
+          "name": "Tulu",
+          "native_name": "Tulu",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\tcy"
+        },
+        {
+          "code": "bho",
+          "name": "Bhojpuri",
+          "native_name": "Bhojpuri",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\bho"
+        },
+        {
+          "code": "raj",
+          "name": "Rajasthani",
+          "native_name": "Rajasthani",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\raj"
+        },
+        {
+          "code": "hne",
+          "name": "Chhattisgarhi",
+          "native_name": "Chhattisgarhi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\hne"
+        },
+        {
+          "code": "bgc",
+          "name": "Haryanvi",
+          "native_name": "Haryanvi",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\bgc"
+        },
+        {
+          "code": "mag",
+          "name": "Magahi",
+          "native_name": "Magahi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\mag"
+        },
+        {
+          "code": "awa",
+          "name": "Awadhi",
+          "native_name": "Awadhi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\awa"
+        },
+        {
+          "code": "mwr",
+          "name": "Marwari",
+          "native_name": "Marwari",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\mwr"
+        },
+        {
+          "code": "bns",
+          "name": "Bundeli",
+          "native_name": "Bundeli",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\bns"
+        },
+        {
+          "code": "gon",
+          "name": "Gondi",
+          "native_name": "Gondi",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\gon"
+        },
+        {
+          "code": "kru",
+          "name": "Kurukh",
+          "native_name": "Kurukh",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\driving_license\\translations\\kru"
+        }
+      ]
+    },
+    {
+      "service": "ews_certificate",
+      "source_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate",
+      "files": [
+        {
+          "filename": "full_guide.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\full_guide.txt",
+          "char_count": 17352
+        },
+        {
+          "filename": "faq.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\faq.txt",
+          "char_count": 11049
+        },
+        {
+          "filename": "voice_points.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\voice_points.txt",
+          "char_count": 19837
+        }
+      ],
+      "targets": [
+        {
+          "code": "hi",
+          "name": "Hindi",
+          "native_name": "Hindi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\hi"
+        },
+        {
+          "code": "bn",
+          "name": "Bengali",
+          "native_name": "Bangla",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\bn"
+        },
+        {
+          "code": "te",
+          "name": "Telugu",
+          "native_name": "Telugu",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\te"
+        },
+        {
+          "code": "mr",
+          "name": "Marathi",
+          "native_name": "Marathi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\mr"
+        },
+        {
+          "code": "ta",
+          "name": "Tamil",
+          "native_name": "Tamil",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\ta"
+        },
+        {
+          "code": "ur",
+          "name": "Urdu",
+          "native_name": "Urdu",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\ur"
+        },
+        {
+          "code": "gu",
+          "name": "Gujarati",
+          "native_name": "Gujarati",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\gu"
+        },
+        {
+          "code": "kn",
+          "name": "Kannada",
+          "native_name": "Kannada",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\kn"
+        },
+        {
+          "code": "ml",
+          "name": "Malayalam",
+          "native_name": "Malayalam",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\ml"
+        },
+        {
+          "code": "or",
+          "name": "Odia",
+          "native_name": "Odia",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\or"
+        },
+        {
+          "code": "pa",
+          "name": "Punjabi",
+          "native_name": "Punjabi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\pa"
+        },
+        {
+          "code": "as",
+          "name": "Assamese",
+          "native_name": "Assamese",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\as"
+        },
+        {
+          "code": "mai",
+          "name": "Maithili",
+          "native_name": "Maithili",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\mai"
+        },
+        {
+          "code": "sa",
+          "name": "Sanskrit",
+          "native_name": "Sanskrit",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\sa"
+        },
+        {
+          "code": "sat",
+          "name": "Santali",
+          "native_name": "Santali",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\sat"
+        },
+        {
+          "code": "ks",
+          "name": "Kashmiri",
+          "native_name": "Kashmiri",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\ks"
+        },
+        {
+          "code": "ne",
+          "name": "Nepali",
+          "native_name": "Nepali",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\ne"
+        },
+        {
+          "code": "sd",
+          "name": "Sindhi",
+          "native_name": "Sindhi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\sd"
+        },
+        {
+          "code": "gom",
+          "name": "Konkani",
+          "native_name": "Konkani",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Konkani directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\gom"
+        },
+        {
+          "code": "doi",
+          "name": "Dogri",
+          "native_name": "Dogri",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Dogri directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\doi"
+        },
+        {
+          "code": "brx",
+          "name": "Bodo",
+          "native_name": "Bodo",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Bodo directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\brx"
+        },
+        {
+          "code": "mni",
+          "name": "Manipuri",
+          "native_name": "Meitei",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\mni"
+        },
+        {
+          "code": "tcy",
+          "name": "Tulu",
+          "native_name": "Tulu",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\tcy"
+        },
+        {
+          "code": "bho",
+          "name": "Bhojpuri",
+          "native_name": "Bhojpuri",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\bho"
+        },
+        {
+          "code": "raj",
+          "name": "Rajasthani",
+          "native_name": "Rajasthani",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\raj"
+        },
+        {
+          "code": "hne",
+          "name": "Chhattisgarhi",
+          "native_name": "Chhattisgarhi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\hne"
+        },
+        {
+          "code": "bgc",
+          "name": "Haryanvi",
+          "native_name": "Haryanvi",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\bgc"
+        },
+        {
+          "code": "mag",
+          "name": "Magahi",
+          "native_name": "Magahi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\mag"
+        },
+        {
+          "code": "awa",
+          "name": "Awadhi",
+          "native_name": "Awadhi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\awa"
+        },
+        {
+          "code": "mwr",
+          "name": "Marwari",
+          "native_name": "Marwari",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\mwr"
+        },
+        {
+          "code": "bns",
+          "name": "Bundeli",
+          "native_name": "Bundeli",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\bns"
+        },
+        {
+          "code": "gon",
+          "name": "Gondi",
+          "native_name": "Gondi",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\gon"
+        },
+        {
+          "code": "kru",
+          "name": "Kurukh",
+          "native_name": "Kurukh",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\ews_certificate\\translations\\kru"
+        }
+      ]
+    },
+    {
+      "service": "income_certificate",
+      "source_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate",
+      "files": [
+        {
+          "filename": "full_guide.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\full_guide.txt",
+          "char_count": 19989
+        },
+        {
+          "filename": "faq.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\faq.txt",
+          "char_count": 10881
+        },
+        {
+          "filename": "voice_points.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\voice_points.txt",
+          "char_count": 17764
+        }
+      ],
+      "targets": [
+        {
+          "code": "hi",
+          "name": "Hindi",
+          "native_name": "Hindi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\hi"
+        },
+        {
+          "code": "bn",
+          "name": "Bengali",
+          "native_name": "Bangla",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\bn"
+        },
+        {
+          "code": "te",
+          "name": "Telugu",
+          "native_name": "Telugu",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\te"
+        },
+        {
+          "code": "mr",
+          "name": "Marathi",
+          "native_name": "Marathi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\mr"
+        },
+        {
+          "code": "ta",
+          "name": "Tamil",
+          "native_name": "Tamil",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\ta"
+        },
+        {
+          "code": "ur",
+          "name": "Urdu",
+          "native_name": "Urdu",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\ur"
+        },
+        {
+          "code": "gu",
+          "name": "Gujarati",
+          "native_name": "Gujarati",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\gu"
+        },
+        {
+          "code": "kn",
+          "name": "Kannada",
+          "native_name": "Kannada",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\kn"
+        },
+        {
+          "code": "ml",
+          "name": "Malayalam",
+          "native_name": "Malayalam",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\ml"
+        },
+        {
+          "code": "or",
+          "name": "Odia",
+          "native_name": "Odia",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\or"
+        },
+        {
+          "code": "pa",
+          "name": "Punjabi",
+          "native_name": "Punjabi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\pa"
+        },
+        {
+          "code": "as",
+          "name": "Assamese",
+          "native_name": "Assamese",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\as"
+        },
+        {
+          "code": "mai",
+          "name": "Maithili",
+          "native_name": "Maithili",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\mai"
+        },
+        {
+          "code": "sa",
+          "name": "Sanskrit",
+          "native_name": "Sanskrit",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\sa"
+        },
+        {
+          "code": "sat",
+          "name": "Santali",
+          "native_name": "Santali",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\sat"
+        },
+        {
+          "code": "ks",
+          "name": "Kashmiri",
+          "native_name": "Kashmiri",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\ks"
+        },
+        {
+          "code": "ne",
+          "name": "Nepali",
+          "native_name": "Nepali",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\ne"
+        },
+        {
+          "code": "sd",
+          "name": "Sindhi",
+          "native_name": "Sindhi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\sd"
+        },
+        {
+          "code": "gom",
+          "name": "Konkani",
+          "native_name": "Konkani",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Konkani directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\gom"
+        },
+        {
+          "code": "doi",
+          "name": "Dogri",
+          "native_name": "Dogri",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Dogri directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\doi"
+        },
+        {
+          "code": "brx",
+          "name": "Bodo",
+          "native_name": "Bodo",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Bodo directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\brx"
+        },
+        {
+          "code": "mni",
+          "name": "Manipuri",
+          "native_name": "Meitei",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\mni"
+        },
+        {
+          "code": "tcy",
+          "name": "Tulu",
+          "native_name": "Tulu",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\tcy"
+        },
+        {
+          "code": "bho",
+          "name": "Bhojpuri",
+          "native_name": "Bhojpuri",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\bho"
+        },
+        {
+          "code": "raj",
+          "name": "Rajasthani",
+          "native_name": "Rajasthani",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\raj"
+        },
+        {
+          "code": "hne",
+          "name": "Chhattisgarhi",
+          "native_name": "Chhattisgarhi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\hne"
+        },
+        {
+          "code": "bgc",
+          "name": "Haryanvi",
+          "native_name": "Haryanvi",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\bgc"
+        },
+        {
+          "code": "mag",
+          "name": "Magahi",
+          "native_name": "Magahi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\mag"
+        },
+        {
+          "code": "awa",
+          "name": "Awadhi",
+          "native_name": "Awadhi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\awa"
+        },
+        {
+          "code": "mwr",
+          "name": "Marwari",
+          "native_name": "Marwari",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\mwr"
+        },
+        {
+          "code": "bns",
+          "name": "Bundeli",
+          "native_name": "Bundeli",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\bns"
+        },
+        {
+          "code": "gon",
+          "name": "Gondi",
+          "native_name": "Gondi",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\gon"
+        },
+        {
+          "code": "kru",
+          "name": "Kurukh",
+          "native_name": "Kurukh",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\income_certificate\\translations\\kru"
+        }
+      ]
+    },
+    {
+      "service": "learner_license",
+      "source_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license",
+      "files": [
+        {
+          "filename": "full_guide.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\full_guide.txt",
+          "char_count": 20156
+        },
+        {
+          "filename": "faq.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\faq.txt",
+          "char_count": 9128
+        },
+        {
+          "filename": "voice_points.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\voice_points.txt",
+          "char_count": 8155
+        }
+      ],
+      "targets": [
+        {
+          "code": "hi",
+          "name": "Hindi",
+          "native_name": "Hindi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\hi"
+        },
+        {
+          "code": "bn",
+          "name": "Bengali",
+          "native_name": "Bangla",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\bn"
+        },
+        {
+          "code": "te",
+          "name": "Telugu",
+          "native_name": "Telugu",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\te"
+        },
+        {
+          "code": "mr",
+          "name": "Marathi",
+          "native_name": "Marathi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\mr"
+        },
+        {
+          "code": "ta",
+          "name": "Tamil",
+          "native_name": "Tamil",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\ta"
+        },
+        {
+          "code": "ur",
+          "name": "Urdu",
+          "native_name": "Urdu",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\ur"
+        },
+        {
+          "code": "gu",
+          "name": "Gujarati",
+          "native_name": "Gujarati",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\gu"
+        },
+        {
+          "code": "kn",
+          "name": "Kannada",
+          "native_name": "Kannada",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\kn"
+        },
+        {
+          "code": "ml",
+          "name": "Malayalam",
+          "native_name": "Malayalam",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\ml"
+        },
+        {
+          "code": "or",
+          "name": "Odia",
+          "native_name": "Odia",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\or"
+        },
+        {
+          "code": "pa",
+          "name": "Punjabi",
+          "native_name": "Punjabi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\pa"
+        },
+        {
+          "code": "as",
+          "name": "Assamese",
+          "native_name": "Assamese",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\as"
+        },
+        {
+          "code": "mai",
+          "name": "Maithili",
+          "native_name": "Maithili",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\mai"
+        },
+        {
+          "code": "sa",
+          "name": "Sanskrit",
+          "native_name": "Sanskrit",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\sa"
+        },
+        {
+          "code": "sat",
+          "name": "Santali",
+          "native_name": "Santali",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\sat"
+        },
+        {
+          "code": "ks",
+          "name": "Kashmiri",
+          "native_name": "Kashmiri",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\ks"
+        },
+        {
+          "code": "ne",
+          "name": "Nepali",
+          "native_name": "Nepali",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\ne"
+        },
+        {
+          "code": "sd",
+          "name": "Sindhi",
+          "native_name": "Sindhi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\sd"
+        },
+        {
+          "code": "gom",
+          "name": "Konkani",
+          "native_name": "Konkani",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Konkani directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\gom"
+        },
+        {
+          "code": "doi",
+          "name": "Dogri",
+          "native_name": "Dogri",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Dogri directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\doi"
+        },
+        {
+          "code": "brx",
+          "name": "Bodo",
+          "native_name": "Bodo",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Bodo directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\brx"
+        },
+        {
+          "code": "mni",
+          "name": "Manipuri",
+          "native_name": "Meitei",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\mni"
+        },
+        {
+          "code": "tcy",
+          "name": "Tulu",
+          "native_name": "Tulu",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\tcy"
+        },
+        {
+          "code": "bho",
+          "name": "Bhojpuri",
+          "native_name": "Bhojpuri",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\bho"
+        },
+        {
+          "code": "raj",
+          "name": "Rajasthani",
+          "native_name": "Rajasthani",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\raj"
+        },
+        {
+          "code": "hne",
+          "name": "Chhattisgarhi",
+          "native_name": "Chhattisgarhi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\hne"
+        },
+        {
+          "code": "bgc",
+          "name": "Haryanvi",
+          "native_name": "Haryanvi",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\bgc"
+        },
+        {
+          "code": "mag",
+          "name": "Magahi",
+          "native_name": "Magahi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\mag"
+        },
+        {
+          "code": "awa",
+          "name": "Awadhi",
+          "native_name": "Awadhi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\awa"
+        },
+        {
+          "code": "mwr",
+          "name": "Marwari",
+          "native_name": "Marwari",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\mwr"
+        },
+        {
+          "code": "bns",
+          "name": "Bundeli",
+          "native_name": "Bundeli",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\bns"
+        },
+        {
+          "code": "gon",
+          "name": "Gondi",
+          "native_name": "Gondi",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\gon"
+        },
+        {
+          "code": "kru",
+          "name": "Kurukh",
+          "native_name": "Kurukh",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\learner_license\\translations\\kru"
+        }
+      ]
+    },
+    {
+      "service": "pan_card",
+      "source_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card",
+      "files": [
+        {
+          "filename": "full_guide.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\full_guide.txt",
+          "char_count": 22499
+        },
+        {
+          "filename": "faq.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\faq.txt",
+          "char_count": 9806
+        },
+        {
+          "filename": "voice_points.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\voice_points.txt",
+          "char_count": 9966
+        }
+      ],
+      "targets": [
+        {
+          "code": "hi",
+          "name": "Hindi",
+          "native_name": "Hindi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\hi"
+        },
+        {
+          "code": "bn",
+          "name": "Bengali",
+          "native_name": "Bangla",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\bn"
+        },
+        {
+          "code": "te",
+          "name": "Telugu",
+          "native_name": "Telugu",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\te"
+        },
+        {
+          "code": "mr",
+          "name": "Marathi",
+          "native_name": "Marathi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\mr"
+        },
+        {
+          "code": "ta",
+          "name": "Tamil",
+          "native_name": "Tamil",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\ta"
+        },
+        {
+          "code": "ur",
+          "name": "Urdu",
+          "native_name": "Urdu",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\ur"
+        },
+        {
+          "code": "gu",
+          "name": "Gujarati",
+          "native_name": "Gujarati",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\gu"
+        },
+        {
+          "code": "kn",
+          "name": "Kannada",
+          "native_name": "Kannada",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\kn"
+        },
+        {
+          "code": "ml",
+          "name": "Malayalam",
+          "native_name": "Malayalam",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\ml"
+        },
+        {
+          "code": "or",
+          "name": "Odia",
+          "native_name": "Odia",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\or"
+        },
+        {
+          "code": "pa",
+          "name": "Punjabi",
+          "native_name": "Punjabi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\pa"
+        },
+        {
+          "code": "as",
+          "name": "Assamese",
+          "native_name": "Assamese",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\as"
+        },
+        {
+          "code": "mai",
+          "name": "Maithili",
+          "native_name": "Maithili",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\mai"
+        },
+        {
+          "code": "sa",
+          "name": "Sanskrit",
+          "native_name": "Sanskrit",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\sa"
+        },
+        {
+          "code": "sat",
+          "name": "Santali",
+          "native_name": "Santali",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\sat"
+        },
+        {
+          "code": "ks",
+          "name": "Kashmiri",
+          "native_name": "Kashmiri",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\ks"
+        },
+        {
+          "code": "ne",
+          "name": "Nepali",
+          "native_name": "Nepali",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\ne"
+        },
+        {
+          "code": "sd",
+          "name": "Sindhi",
+          "native_name": "Sindhi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\sd"
+        },
+        {
+          "code": "gom",
+          "name": "Konkani",
+          "native_name": "Konkani",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Konkani directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\gom"
+        },
+        {
+          "code": "doi",
+          "name": "Dogri",
+          "native_name": "Dogri",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Dogri directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\doi"
+        },
+        {
+          "code": "brx",
+          "name": "Bodo",
+          "native_name": "Bodo",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Bodo directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\brx"
+        },
+        {
+          "code": "mni",
+          "name": "Manipuri",
+          "native_name": "Meitei",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\mni"
+        },
+        {
+          "code": "tcy",
+          "name": "Tulu",
+          "native_name": "Tulu",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\tcy"
+        },
+        {
+          "code": "bho",
+          "name": "Bhojpuri",
+          "native_name": "Bhojpuri",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\bho"
+        },
+        {
+          "code": "raj",
+          "name": "Rajasthani",
+          "native_name": "Rajasthani",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\raj"
+        },
+        {
+          "code": "hne",
+          "name": "Chhattisgarhi",
+          "native_name": "Chhattisgarhi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\hne"
+        },
+        {
+          "code": "bgc",
+          "name": "Haryanvi",
+          "native_name": "Haryanvi",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\bgc"
+        },
+        {
+          "code": "mag",
+          "name": "Magahi",
+          "native_name": "Magahi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\mag"
+        },
+        {
+          "code": "awa",
+          "name": "Awadhi",
+          "native_name": "Awadhi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\awa"
+        },
+        {
+          "code": "mwr",
+          "name": "Marwari",
+          "native_name": "Marwari",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\mwr"
+        },
+        {
+          "code": "bns",
+          "name": "Bundeli",
+          "native_name": "Bundeli",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\bns"
+        },
+        {
+          "code": "gon",
+          "name": "Gondi",
+          "native_name": "Gondi",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\gon"
+        },
+        {
+          "code": "kru",
+          "name": "Kurukh",
+          "native_name": "Kurukh",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\pan_card\\translations\\kru"
+        }
+      ]
+    },
+    {
+      "service": "passport",
+      "source_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport",
+      "files": [
+        {
+          "filename": "full_guide.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\full_guide.txt",
+          "char_count": 16918
+        },
+        {
+          "filename": "faq.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\faq.txt",
+          "char_count": 8967
+        },
+        {
+          "filename": "voice_points.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\voice_points.txt",
+          "char_count": 8999
+        }
+      ],
+      "targets": [
+        {
+          "code": "hi",
+          "name": "Hindi",
+          "native_name": "Hindi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\hi"
+        },
+        {
+          "code": "bn",
+          "name": "Bengali",
+          "native_name": "Bangla",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\bn"
+        },
+        {
+          "code": "te",
+          "name": "Telugu",
+          "native_name": "Telugu",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\te"
+        },
+        {
+          "code": "mr",
+          "name": "Marathi",
+          "native_name": "Marathi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\mr"
+        },
+        {
+          "code": "ta",
+          "name": "Tamil",
+          "native_name": "Tamil",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\ta"
+        },
+        {
+          "code": "ur",
+          "name": "Urdu",
+          "native_name": "Urdu",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\ur"
+        },
+        {
+          "code": "gu",
+          "name": "Gujarati",
+          "native_name": "Gujarati",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\gu"
+        },
+        {
+          "code": "kn",
+          "name": "Kannada",
+          "native_name": "Kannada",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\kn"
+        },
+        {
+          "code": "ml",
+          "name": "Malayalam",
+          "native_name": "Malayalam",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\ml"
+        },
+        {
+          "code": "or",
+          "name": "Odia",
+          "native_name": "Odia",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\or"
+        },
+        {
+          "code": "pa",
+          "name": "Punjabi",
+          "native_name": "Punjabi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\pa"
+        },
+        {
+          "code": "as",
+          "name": "Assamese",
+          "native_name": "Assamese",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\as"
+        },
+        {
+          "code": "mai",
+          "name": "Maithili",
+          "native_name": "Maithili",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\mai"
+        },
+        {
+          "code": "sa",
+          "name": "Sanskrit",
+          "native_name": "Sanskrit",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\sa"
+        },
+        {
+          "code": "sat",
+          "name": "Santali",
+          "native_name": "Santali",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\sat"
+        },
+        {
+          "code": "ks",
+          "name": "Kashmiri",
+          "native_name": "Kashmiri",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\ks"
+        },
+        {
+          "code": "ne",
+          "name": "Nepali",
+          "native_name": "Nepali",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\ne"
+        },
+        {
+          "code": "sd",
+          "name": "Sindhi",
+          "native_name": "Sindhi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\sd"
+        },
+        {
+          "code": "gom",
+          "name": "Konkani",
+          "native_name": "Konkani",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Konkani directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\gom"
+        },
+        {
+          "code": "doi",
+          "name": "Dogri",
+          "native_name": "Dogri",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Dogri directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\doi"
+        },
+        {
+          "code": "brx",
+          "name": "Bodo",
+          "native_name": "Bodo",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Bodo directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\brx"
+        },
+        {
+          "code": "mni",
+          "name": "Manipuri",
+          "native_name": "Meitei",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\mni"
+        },
+        {
+          "code": "tcy",
+          "name": "Tulu",
+          "native_name": "Tulu",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\tcy"
+        },
+        {
+          "code": "bho",
+          "name": "Bhojpuri",
+          "native_name": "Bhojpuri",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\bho"
+        },
+        {
+          "code": "raj",
+          "name": "Rajasthani",
+          "native_name": "Rajasthani",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\raj"
+        },
+        {
+          "code": "hne",
+          "name": "Chhattisgarhi",
+          "native_name": "Chhattisgarhi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\hne"
+        },
+        {
+          "code": "bgc",
+          "name": "Haryanvi",
+          "native_name": "Haryanvi",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\bgc"
+        },
+        {
+          "code": "mag",
+          "name": "Magahi",
+          "native_name": "Magahi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\mag"
+        },
+        {
+          "code": "awa",
+          "name": "Awadhi",
+          "native_name": "Awadhi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\awa"
+        },
+        {
+          "code": "mwr",
+          "name": "Marwari",
+          "native_name": "Marwari",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\mwr"
+        },
+        {
+          "code": "bns",
+          "name": "Bundeli",
+          "native_name": "Bundeli",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\bns"
+        },
+        {
+          "code": "gon",
+          "name": "Gondi",
+          "native_name": "Gondi",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\gon"
+        },
+        {
+          "code": "kru",
+          "name": "Kurukh",
+          "native_name": "Kurukh",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\passport\\translations\\kru"
+        }
+      ]
+    },
+    {
+      "service": "voter_card",
+      "source_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card",
+      "files": [
+        {
+          "filename": "full_guide.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\full_guide.txt",
+          "char_count": 42394
+        },
+        {
+          "filename": "faq.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\faq.txt",
+          "char_count": 10180
+        },
+        {
+          "filename": "voice_points.txt",
+          "source_path": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\voice_points.txt",
+          "char_count": 16191
+        }
+      ],
+      "targets": [
+        {
+          "code": "hi",
+          "name": "Hindi",
+          "native_name": "Hindi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\hi"
+        },
+        {
+          "code": "bn",
+          "name": "Bengali",
+          "native_name": "Bangla",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\bn"
+        },
+        {
+          "code": "te",
+          "name": "Telugu",
+          "native_name": "Telugu",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\te"
+        },
+        {
+          "code": "mr",
+          "name": "Marathi",
+          "native_name": "Marathi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\mr"
+        },
+        {
+          "code": "ta",
+          "name": "Tamil",
+          "native_name": "Tamil",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\ta"
+        },
+        {
+          "code": "ur",
+          "name": "Urdu",
+          "native_name": "Urdu",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\ur"
+        },
+        {
+          "code": "gu",
+          "name": "Gujarati",
+          "native_name": "Gujarati",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\gu"
+        },
+        {
+          "code": "kn",
+          "name": "Kannada",
+          "native_name": "Kannada",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\kn"
+        },
+        {
+          "code": "ml",
+          "name": "Malayalam",
+          "native_name": "Malayalam",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\ml"
+        },
+        {
+          "code": "or",
+          "name": "Odia",
+          "native_name": "Odia",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\or"
+        },
+        {
+          "code": "pa",
+          "name": "Punjabi",
+          "native_name": "Punjabi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\pa"
+        },
+        {
+          "code": "as",
+          "name": "Assamese",
+          "native_name": "Assamese",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\as"
+        },
+        {
+          "code": "mai",
+          "name": "Maithili",
+          "native_name": "Maithili",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\mai"
+        },
+        {
+          "code": "sa",
+          "name": "Sanskrit",
+          "native_name": "Sanskrit",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\sa"
+        },
+        {
+          "code": "sat",
+          "name": "Santali",
+          "native_name": "Santali",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\sat"
+        },
+        {
+          "code": "ks",
+          "name": "Kashmiri",
+          "native_name": "Kashmiri",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\ks"
+        },
+        {
+          "code": "ne",
+          "name": "Nepali",
+          "native_name": "Nepali",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\ne"
+        },
+        {
+          "code": "sd",
+          "name": "Sindhi",
+          "native_name": "Sindhi",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\sd"
+        },
+        {
+          "code": "gom",
+          "name": "Konkani",
+          "native_name": "Konkani",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Konkani directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\gom"
+        },
+        {
+          "code": "doi",
+          "name": "Dogri",
+          "native_name": "Dogri",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Dogri directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\doi"
+        },
+        {
+          "code": "brx",
+          "name": "Bodo",
+          "native_name": "Bodo",
+          "category": "scheduled",
+          "supported_now": false,
+          "notes": "Model does not support Bodo directly.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\brx"
+        },
+        {
+          "code": "mni",
+          "name": "Manipuri",
+          "native_name": "Meitei",
+          "category": "scheduled",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\mni"
+        },
+        {
+          "code": "tcy",
+          "name": "Tulu",
+          "native_name": "Tulu",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\tcy"
+        },
+        {
+          "code": "bho",
+          "name": "Bhojpuri",
+          "native_name": "Bhojpuri",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\bho"
+        },
+        {
+          "code": "raj",
+          "name": "Rajasthani",
+          "native_name": "Rajasthani",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\raj"
+        },
+        {
+          "code": "hne",
+          "name": "Chhattisgarhi",
+          "native_name": "Chhattisgarhi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\hne"
+        },
+        {
+          "code": "bgc",
+          "name": "Haryanvi",
+          "native_name": "Haryanvi",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\bgc"
+        },
+        {
+          "code": "mag",
+          "name": "Magahi",
+          "native_name": "Magahi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\mag"
+        },
+        {
+          "code": "awa",
+          "name": "Awadhi",
+          "native_name": "Awadhi",
+          "category": "additional",
+          "supported_now": true,
+          "notes": "",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\awa"
+        },
+        {
+          "code": "mwr",
+          "name": "Marwari",
+          "native_name": "Marwari",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\mwr"
+        },
+        {
+          "code": "bns",
+          "name": "Bundeli",
+          "native_name": "Bundeli",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\bns"
+        },
+        {
+          "code": "gon",
+          "name": "Gondi",
+          "native_name": "Gondi",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\gon"
+        },
+        {
+          "code": "kru",
+          "name": "Kurukh",
+          "native_name": "Kurukh",
+          "category": "additional",
+          "supported_now": false,
+          "notes": "Needs separate backend support.",
+          "target_dir": "C:\\Users\\nithi\\OneDrive\\Documents\\New project\\knowledge_base\\voter_card\\translations\\kru"
+        }
+      ]
+    }
+  ]
+}

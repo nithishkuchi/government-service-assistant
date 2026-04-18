@@ -1,0 +1,151 @@
+
+
+1. Question: What services are covered under this Passport Seva guide?
+Answer: This guide covers Fresh / Reissue Ordinary Passport, Tatkaal Passport, and Diplomatic / Official Passport services.
+
+2. Question: Can I apply for a new ordinary passport through Passport Seva Online Portal?
+Answer: Yes. You can apply for a fresh ordinary passport through the Passport Seva Online Portal.
+
+3. Question: Can I apply for passport reissue on the same portal?
+Answer: Yes. Passport reissue applications can also be submitted through the Passport Seva Online Portal.
+
+4. Question: What is Tatkaal Passport?
+Answer: Tatkaal Passport is an expedited passport service for urgent travel requirements.
+
+5. Question: Who needs Diplomatic or Official Passport?
+Answer: Government officials traveling on official duty, diplomats, and persons authorized by the Government for official purposes may need Diplomatic or Official Passport.
+
+6. Question: What is the first step before applying for passport services online?
+Answer: The first step is portal registration.
+
+7. Question: How do I register on Passport Seva Online Portal?
+Answer: Click on the “Register” button, fill in all required details, click “Sign Up”, and confirm your registered email ID.
+
+8. Question: What do I need to login to the Passport Seva Online Portal?
+Answer: You need your registered Login ID and Password.
+
+9. Question: Does the Passport Seva password expire?
+Answer: Yes. Password must be reset every 3 months as it expires.
+
+10. Question: Why is Regional Passport Office (RPO) selection important?
+Answer: RPO selection matters because it is based on your current residing location and affects the nearest Passport Seva Kendra shown during appointment scheduling.
+
+11. Question: What should I do if I want to apply from a different RPO than my old passport office?
+Answer: You should create a new login ID on the Passport Seva Portal, even if you use the same email ID, and select the new Passport Office during registration.
+
+12. Question: Can I apply at any PSK or RPO across India?
+Answer: Yes. Applicants may apply for passport services at any PSK/RPO across India based on preference and convenience.
+
+13. Question: How do I start the online application after login?
+Answer: Go to the dashboard, click on “Services”, and select “Apply for Fresh Passport/Re-issue of Passport” or the relevant service.
+
+14. Question: How many steps are there in the ordinary passport application form?
+Answer: There are 9 main application form steps.
+
+15. Question: What details are entered in Step 1 of passport application?
+Answer: Step 1 is Passport Type, where you select the type of ordinary passport required.
+
+16. Question: What details are entered in Applicant Details section?
+Answer: You enter full name, date of birth, gender, nationality, and other personal information.
+
+17. Question: What details are entered in Family Details section?
+Answer: You enter father’s details, mother’s details, and spouse details if applicable.
+
+18. Question: What details are entered in Address Details section?
+Answer: You enter your current residential address, State/Union Territory, and pin code.
+
+19. Question: What details are entered in Emergency Contact section?
+Answer: You enter the emergency contact person’s name, contact details, and relationship to you.
+
+20. Question: What details are entered in Previous Passport section?
+Answer: If applicable, you enter previous passport number, issue date, and expiry date.
+
+21. Question: What is included in Other Details section?
+Answer: It includes additional information such as occupation details, marital status, and other required information.
+
+22. Question: Why is Passport Preview important?
+Answer: Passport Preview helps you review all entered information and verify accuracy before final submission.
+
+23. Question: Can I edit the application after submission?
+Answer: No. Once the application is submitted, changes cannot be made.
+
+24. Question: What is ARN in passport application?
+Answer: ARN stands for Application Reference Number, which is generated after successful submission.
+
+25. Question: Can I save my passport application and continue later?
+Answer: Yes. You can save the application at any point and resume later.
+
+26. Question: Is payment required before booking passport appointment?
+Answer: Yes. Prior payment of the applicable passport service fee is mandatory for booking appointments.
+
+27. Question: What payment mode is used for appointment booking?
+Answer: Payment is made through the online payment gateway.
+
+28. Question: What appointment quota options are available?
+Answer: Generally, Normal quota is available for standard processing, and Tatkaal quota is available only for Tatkaal applicants.
+
+29. Question: Can I choose my preferred PSK or POPSK?
+Answer: Yes. You can select your preferred Passport Seva Kendra (PSK) or Post Office Passport Seva Kendra (POPSK).
+
+30. Question: How will I know my passport appointment is confirmed?
+Answer: After successful payment, the Appointment Confirmation screen is displayed and an SMS is sent to your registered mobile number.
+
+31. Question: What details are sent through passport appointment SMS?
+Answer: The SMS generally includes appointment date, appointment time, and PSK/location details.
+
+32. Question: Can I reschedule a passport appointment?
+Answer: Yes. You can use the “Schedule/Reschedule Appointment” link if payment has already been made or appointment is already scheduled.
+
+33. Question: How many times can normal passport appointments be rescheduled?
+Answer: Normal appointments can be rescheduled up to three times.
+
+34. Question: How many times can Tatkaal passport appointments be rescheduled?
+Answer: Tatkaal appointments can be rescheduled only once.
+
+35. Question: What should I carry on the day of appointment?
+Answer: Carry all required original documents and any photocopies if needed, along with your appointment details.
+
+36. Question: Is there any special note for minor applicants below 4 years?
+Answer: Yes. Applicants below 4 years must carry a recent passport-size photograph (4.5 x 3.5 cm) with white background.
+
+37. Question: What happens if I do not visit PSK within 90 days of online form submission?
+Answer: Resubmission of the application form is required if you do not visit the Passport Seva Kendra within 90 days.
+
+38. Question: What documents are required for Tatkaal Passport for applicants above 18 years?
+Answer: They must submit address proof, birth proof, Non-ECR proof if applicable, and any 3 documents from the acceptable documents list.
+
+39. Question: What documents are required for Tatkaal Passport for applicants below 18 years?
+Answer: They must submit address proof, birth proof, Non-ECR proof if applicable, and any 2 documents from serial numbers 1 to 6 in the acceptable list.
+
+40. Question: Is Aadhaar accepted for Tatkaal Passport?
+Answer: Yes. PVC Aadhaar Card, complete original Aadhaar Letter, or e-Aadhaar with digitally verified UIDAI signature is accepted.
+
+41. Question: Are small cut-out Aadhaar cards printed by non-UIDAI entities accepted for Tatkaal?
+Answer: No. Such Aadhaar cut-out cards are not accepted.
+
+42. Question: Is PAN card accepted for Tatkaal?
+Answer: Yes. PAN card is one of the acceptable documents.
+
+43. Question: Are there categories not eligible for Tatkaal Passport?
+Answer: Yes. There are multiple ineligible categories including certain name change cases, adverse police report cases, lost/stolen passport cases, certain minors, and other restricted categories.
+
+44. Question: Is name change eligible under Tatkaal scheme?
+Answer: No. Any name change case is not eligible under Tatkaal scheme.
+
+45. Question: Are lost or stolen passport reissue cases eligible under Tatkaal?
+Answer: No. Lost or stolen passport cases are ineligible under Tatkaal reissue category.
+
+46. Question: Is Undertaking for Tatkaal Scheme mandatory?
+Answer: Yes. Applicants under Tatkaal scheme must fill the Undertaking for Tatkaal Scheme in Hindi or English.
+
+47. Question: How do I apply for Diplomatic or Official Passport?
+Answer: Register and login on Passport Seva Online Portal, click “Apply for Diplomatic/Official Passport”, fill the application, submit it, pay the applicable fee, and schedule appointment.
+
+48. Question: Where should New Delhi applicants submit Diplomatic/Official Passport documents?
+Answer: They should go to the Consular, Passport and Visa (CPV) Division at Patiala House, New Delhi.
+
+49. Question: Where should applicants from other states submit Diplomatic/Official Passport documents?
+Answer: They should go to the Passport Office attached to their present address.
+
+50. Question: What are the most important final precautions while applying for passport services?
+Answer: Ensure all details are accurate, keep original documents ready, make payment carefully, save ARN and appointment details, attend appointment within 90 days, and do not submit false information or false documents.

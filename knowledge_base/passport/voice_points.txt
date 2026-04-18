@@ -1,0 +1,219 @@
+
+
+SECTION A: COMMON PORTAL REGISTRATION
+1. Open the official Passport Seva Online Portal.
+2. Click on the “Register” button.
+3. Fill in all required registration details.
+4. Select the correct Passport Office / RPO during registration.
+5. Click on “Sign Up”.
+6. Open your registered email inbox.
+7. Confirm your registered email ID.
+8. Return to the portal login page.
+9. Enter your Login ID.
+10. Enter your Password.
+11. Login to the portal.
+12. Reset password every 3 months if required.
+13. Do not share your password with anyone.
+14. Use a strong password.
+
+SECTION B: RPO SELECTION
+15. Select RPO based on your current residing location.
+16. Understand that selected RPO affects the PSK shown during scheduling.
+17. If changing to a different RPO, create a new login ID.
+18. Use the same email ID if needed.
+19. Register again for the new Passport Office.
+20. Select the new Passport Office carefully.
+21. Choose PSK/RPO as per convenience.
+
+SECTION C: SERVICE 1 – FRESH / REISSUE ORDINARY PASSPORT
+22. Login to the dashboard.
+23. Click on “Services”.
+24. Click on “Apply for Fresh Passport/Re-issue of Passport”.
+25. Start Step 01: Select Passport Type.
+26. Start Step 02: Enter Applicant Details.
+27. Enter full name.
+28. Enter date of birth.
+29. Enter gender.
+30. Enter nationality and personal details.
+31. Start Step 03: Enter Family Details.
+32. Enter father’s details.
+33. Enter mother’s details.
+34. Enter spouse details if applicable.
+35. Start Step 04: Enter Address Details.
+36. Enter current residential address.
+37. Select State/Union Territory.
+38. Enter pin code.
+39. Start Step 05: Enter Emergency Contact.
+40. Enter emergency contact name.
+41. Enter emergency contact details.
+42. Enter relationship with emergency contact.
+43. Start Step 06: Enter Previous Passport details if applicable.
+44. Enter previous passport number.
+45. Enter passport issue date.
+46. Enter passport expiry date.
+47. Start Step 07: Enter Other Details.
+48. Enter occupation details.
+49. Enter marital status.
+50. Enter other required information.
+51. Start Step 08: Passport Preview.
+52. Review all entered information.
+53. Start Step 09: Details Verification.
+54. Verify every detail carefully.
+55. Save application if needed and continue later.
+56. Click “Submit”.
+57. Do not submit until all details are correct.
+58. Note down the ARN generated after submission.
+
+SECTION D: PAYMENT & APPOINTMENT – ORDINARY PASSPORT
+59. Open submitted application view.
+60. Click “View > Pay and Schedule Appointment”.
+61. Select “Online Payment”.
+62. Select appointment quota as “Normal”.
+63. Select preferred PSK or POPSK.
+64. Check next available appointment date.
+65. Verify appointment details.
+66. Click “Pay and Book Appointment”.
+67. Complete payment on payment gateway.
+68. Wait for redirection back to portal.
+69. Check Appointment Confirmation screen.
+70. Save appointment details.
+71. Check SMS sent to registered mobile number.
+72. Save date, time, and location details.
+73. Use reschedule option if needed.
+74. Reschedule only within allowed limit of 3 times.
+
+SECTION E: APPOINTMENT DAY – ORDINARY PASSPORT
+75. Reach PSK/POPSK on scheduled date.
+76. Reach on time.
+77. Carry all original documents.
+78. Carry photocopies if required.
+79. Carry appointment confirmation details.
+80. Cooperate during document verification.
+81. Follow PSK officer instructions.
+82. If applicant is below 4 years, carry recent passport-size photo.
+83. Ensure child photo is 4.5 x 3.5 cm with white background.
+84. Attend appointment within 90 days from online submission.
+
+SECTION F: SERVICE 2 – TATKAAL PASSPORT
+85. Register and login using the same portal process.
+86. Open relevant passport application service.
+87. Select Passport Type as Tatkaal.
+88. Enter all applicant details.
+89. Enter family details.
+90. Enter address details.
+91. Enter emergency contact.
+92. Enter previous passport details if applicable.
+93. Enter other required details.
+94. Preview all details carefully.
+95. Verify all details.
+96. Submit application.
+97. Note ARN after submission.
+98. Fill Undertaking for Tatkaal Scheme in Hindi or English.
+99. Keep Tatkaal supporting documents ready.
+100. For applicants above 18, keep address proof ready.
+101. For applicants above 18, keep birth proof ready.
+102. For applicants above 18, keep Non-ECR proof if applicable.
+103. For applicants above 18, keep any 3 acceptable documents ready.
+104. For applicants below 18, keep address proof ready.
+105. For applicants below 18, keep birth proof ready.
+106. For applicants below 18, keep Non-ECR proof if applicable.
+107. For applicants below 18, keep any 2 documents from serial numbers 1 to 6 ready.
+108. Ensure Aadhaar is acceptable if submitted.
+109. Do not use non-UIDAI small cut-out Aadhaar cards.
+110. Check Tatkaal eligibility before payment.
+111. Do not apply under Tatkaal if your case is ineligible.
+112. Review ineligibility categories carefully.
+
+SECTION G: PAYMENT & APPOINTMENT – TATKAAL
+113. Click “View > Pay and Schedule Appointment”.
+114. Select “Online Payment”.
+115. Select appointment quota as “Tatkaal”.
+116. Select preferred PSK/POPSK.
+117. Check next available appointment date.
+118. Click “Pay and Book Appointment”.
+119. Complete Tatkaal payment.
+120. Wait for confirmation screen.
+121. Save appointment details.
+122. Save SMS details.
+123. Reschedule only if necessary.
+124. Remember Tatkaal can be rescheduled only once.
+
+SECTION H: TATKAAL INELIGIBILITY CHECK
+125. Do not use Tatkaal for name change cases.
+126. Do not use Tatkaal if present address is outside RPO jurisdiction where restricted.
+127. Do not use Tatkaal for Annexure C minor cases where restricted.
+128. Do not use Tatkaal for government repatriation cases.
+129. Do not use Tatkaal for deportation cases.
+130. Do not use Tatkaal if applicant travelled on Emergency Certificate.
+131. Do not use Tatkaal in restricted Naga origin cases.
+132. Do not use Tatkaal in restricted J&K origin cases.
+133. Do not use Tatkaal where section 6(2)(e) or 6(2)(f) applies.
+134. Do not use Tatkaal if adverse police report exists.
+135. Do not use Tatkaal for habitual passport loser category.
+136. Do not use Tatkaal for fake/forged passport history.
+137. Do not use Tatkaal for citizenship by registration/naturalization fresh cases where restricted.
+138. Do not use Tatkaal for adopted children where restricted.
+139. Do not use Tatkaal for children out of wedlock with single parent where restricted.
+140. Do not use Tatkaal for surrogacy children where restricted.
+141. Do not use Tatkaal for single parent minors where restricted.
+142. Do not use Tatkaal for lost/stolen passport reissue.
+143. Do not use Tatkaal for short validity reissue.
+144. Do not use Tatkaal for passport damaged beyond recognition.
+145. Do not use Tatkaal for change in sex/appearance/signature.
+146. Do not use Tatkaal for DOB/POB correction.
+147. Do not use Tatkaal for change in father/mother/spouse name.
+
+SECTION I: SERVICE 3 – DIPLOMATIC / OFFICIAL PASSPORT
+148. Register on the portal.
+149. Confirm email ID.
+150. Login with Login ID and Password.
+151. Click “Apply for Diplomatic/Official Passport”.
+152. Enter personal information.
+153. Enter official designation.
+154. Enter purpose of passport.
+155. Enter government authorization details.
+156. Enter address details.
+157. Enter emergency contact details.
+158. Enter other required information.
+159. Review all details carefully.
+160. Click “Submit”.
+161. Note ARN generated.
+
+SECTION J: PAYMENT & APPOINTMENT – DIPLOMATIC / OFFICIAL
+162. Click “View > Pay and Schedule Appointment”.
+163. Select “Online Payment”.
+164. Select appointment quota as applicable.
+165. Select preferred PSK/POPSK or CPV Division location.
+166. Check next available appointment date.
+167. Click “Pay and Book Appointment”.
+168. Complete payment on payment gateway.
+169. Wait for confirmation screen.
+170. Save appointment details.
+171. Save SMS details.
+172. Use reschedule option if needed.
+173. Reschedule within allowed limit of 3 times.
+174. If Tatkaal applies, reschedule only once.
+
+SECTION K: APPOINTMENT DAY – DIPLOMATIC / OFFICIAL
+175. Print the online filled application form.
+176. Carry printed application form.
+177. Carry original documents.
+178. Refer to printed application instruction page.
+179. For New Delhi applicants, go to CPV Division, Patiala House, New Delhi.
+180. For other state applicants, go to Passport Office attached to present address.
+181. Reach on time.
+182. Follow officer instructions.
+
+SECTION L: COMMON IMPORTANT ACTIONS
+183. Ensure all details are truthful.
+184. Do not submit false documents.
+185. Keep payment receipt safely.
+186. Attend appointment within 90 days from online submission.
+187. If 90 days pass without visit, resubmit application.
+188. Keep mobile number updated on portal.
+189. Save all SMS notifications.
+190. Keep ARN safely.
+191. Keep appointment confirmation safely.
+192. Carry originals for verification.
+193. Carry photocopies if required.
+194. Follow PSK/Passport Officer instructions.

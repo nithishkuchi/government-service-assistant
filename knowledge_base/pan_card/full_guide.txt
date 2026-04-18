@@ -1,0 +1,747 @@
+SERVICE NAME: PAN Card New Application
+
+OVERVIEW:
+This service helps a first-time applicant apply for a new PAN card. The user can apply online by themselves or take help from a net centre, MeeSeva, or CSC operator. This guide is meant for normal adult applicants applying for a new PAN card for the first time.
+
+WHO IS THIS FOR:
+- First-time PAN applicants
+- Students who need PAN for education, scholarship, banking, or jobs
+- Adults who do not yet have a PAN card
+- Users in villages, mandals, towns, and cities
+- Users who may need operator assistance
+
+IMPORTANT NOTE:
+If the user is not comfortable using a phone or computer, they can go to the nearest net centre / MeeSeva / CSC. The operator can fill the application for them. The operator may charge approximately ₹100 to ₹300 or more as service charge apart from official fees. Ask the service charge clearly before starting.
+
+MAIN APPLICATION MODES:
+1. Self-application online
+2. Application through net centre / MeeSeva / CSC operator
+
+==================================================
+STEP 1: BEFORE STARTING – REQUIRED DOCUMENTS & PREPARATION
+==================================================
+
+Why this step matters:
+You should collect all required details before opening the form. If any document, mobile number, or payment method is missing, the process may stop in the middle.
+
+What to keep ready:
+- Aadhaar card
+- Mobile number linked with Aadhaar, if Aadhaar-based eKYC or OTP is used
+- Active mobile number for receiving updates
+- Email ID
+- Full name exactly as per Aadhaar or supporting proof
+- Date of birth
+- Father’s name
+- Address details
+- PIN code
+- Identity proof, address proof, and date of birth proof if required
+- Passport-size photo if photo upload is needed
+- Scanned signature or thumb impression if required
+- Debit card / credit card / UPI / net banking for payment
+- Good internet connection
+
+Common mistake:
+Starting the application without checking whether Aadhaar-linked mobile is active.
+
+If stuck, do this:
+If Aadhaar-linked mobile is not active or documents are confusing, go to a net centre / MeeSeva / CSC and ask the operator to help with a new PAN application.
+
+Expected result:
+You are fully ready to start the PAN application without interruption.
+
+Next step:
+Decide whether to apply by yourself online or through an operator.
+
+Microinstructions:
+- Collect Aadhaar card.
+- Check Aadhaar-linked mobile status.
+- Keep active mobile number.
+- Keep active email ID.
+- Keep full name exactly as per proof.
+- Keep DOB ready.
+- Keep father’s name ready.
+- Keep address and PIN code ready.
+- Keep proof documents ready if required.
+- Keep photo/signature/thumb files ready if required.
+- Keep payment method ready.
+- Ensure stable internet connection.
+
+==================================================
+STEP 2: CHOOSE HOW YOU WANT TO APPLY
+==================================================
+
+Why this step matters:
+The process is easier when you decide in advance whether you will do it yourself or use operator assistance.
+
+Option A: Self-application
+Use this if:
+- You can read the form
+- You can use OTP and payment by yourself
+- You can upload documents if required
+
+Option B: Net centre / MeeSeva / CSC operator
+Use this if:
+- You are not comfortable with English websites
+- You are afraid of entering wrong details
+- Your area has poor internet or limited digital support
+- You want someone to upload documents and finish the form
+
+What to do if choosing operator mode:
+- Visit nearest net centre / MeeSeva / CSC
+- Say clearly: “I want to apply for a new PAN card”
+- Show your documents
+- Ask the operator the total cost before they begin
+- Watch the entered details carefully before final submission
+
+Common mistake:
+Giving documents to an operator without checking spelling, date of birth, mobile number, and email.
+
+If stuck, do this:
+Ask the operator to show the preview screen before final submission.
+
+Expected result:
+You have selected the mode of application.
+
+Next step:
+If self-applying, open the official PAN application website.
+
+Microinstructions:
+- Decide self or operator mode.
+- If operator mode, visit nearest centre.
+- Tell operator clearly the service needed.
+- Ask total cost first.
+- Ask service charge separately.
+- Show documents.
+- Watch data entry carefully.
+- Check preview before final submission.
+- Collect receipt/reference before leaving.
+
+==================================================
+STEP 3: OPEN THE OFFICIAL PAN APPLICATION WEBSITE
+==================================================
+
+Why this step matters:
+You must use the official or authorized portal to avoid wrong charges or fake websites.
+
+Location:
+Use the official PAN application portal authorized for PAN services. Search carefully for the official PAN new application page.
+
+What to do:
+- Open browser on mobile or laptop
+- Search for official “new PAN card application”
+- Open the authorized PAN application page
+- Read the options carefully before clicking
+
+What the screen may look like:
+- A page with PAN services
+- Option for new PAN application
+- Form selection page
+- Instructions and category details
+
+What to enter carefully:
+Do not click advertisements or unknown private agent links unless you intentionally want paid assistance.
+
+Common mistake:
+Opening fake websites or random ad links and paying unnecessary charges.
+
+If stuck, do this:
+If unsure which site is correct, use a trusted operator at CSC / MeeSeva / net centre.
+
+Expected result:
+You are on the PAN new application page.
+
+Next step:
+Select the new PAN application form.
+
+Microinstructions:
+- Open browser.
+- Search carefully.
+- Open authorized PAN portal.
+- Avoid ad links.
+- Avoid fake/private unknown portals.
+- Read available options.
+- Click new PAN application.
+
+==================================================
+STEP 4: SELECT NEW PAN APPLICATION FORM
+==================================================
+
+Why this step matters:
+Choosing the correct form ensures your application goes to the right category.
+
+What to do:
+- Select option for new PAN application
+- Choose the correct category, usually individual
+- Read whether the form is for Indian citizen / individual applicant
+
+What the screen may look like:
+- Dropdown for application type
+- Dropdown for category
+- Fields like name, DOB, email, mobile
+
+What to enter carefully:
+- Applicant category should match the real applicant
+- Name should match supporting documents
+- Date of birth must be correct
+- Email and mobile should be active
+
+Common mistake:
+Selecting wrong category or entering nickname instead of official name.
+
+If stuck, do this:
+If you do not understand category selection, choose operator assistance.
+
+Expected result:
+Correct application form is selected and initial details are ready.
+
+Next step:
+Enter the applicant’s personal details.
+
+Microinstructions:
+- Select new PAN application.
+- Choose correct category.
+- Usually choose individual for a normal applicant.
+- Confirm Indian citizen/individual category if applicable.
+- Avoid wrong category selection.
+- Ensure name, DOB, mobile, email are ready.
+
+==================================================
+STEP 5: ENTER BASIC PERSONAL DETAILS
+==================================================
+
+Why this step matters:
+These details become the base record for PAN generation.
+
+What to enter:
+- Full name
+- Date of birth
+- Gender if asked
+- Mobile number
+- Email ID
+
+How to fill carefully:
+- Use exact spelling as per Aadhaar or valid proof
+- Do not add extra initials unless they appear in proof
+- Enter working mobile number
+- Enter email ID that you can access
+
+What the screen may look like:
+A simple form with text fields and one button to continue or generate token/reference number.
+
+Common mistake:
+Typing wrong date of birth, wrong mobile number, or mismatch between proof and form.
+
+If stuck, do this:
+Before clicking continue, reread every field once slowly.
+
+Expected result:
+Initial registration is created and you may receive a token number or reference number.
+
+Next step:
+Save the token or reference number carefully.
+
+Microinstructions:
+- Enter full name exactly as per proof.
+- Enter DOB correctly.
+- Enter gender if asked.
+- Enter active mobile number.
+- Enter accessible email ID.
+- Avoid nickname.
+- Avoid extra initials unless present in proof.
+- Recheck all fields slowly.
+- Continue to generate token/reference.
+
+==================================================
+STEP 6: SAVE TOKEN / REFERENCE / ACKNOWLEDGEMENT NUMBER
+==================================================
+
+Why this step matters:
+This number is needed if the page closes, payment fails, or you want to continue later.
+
+What to do:
+- Write the token/reference number in a notebook
+- Take screenshot
+- Save in phone notes
+- If at a net centre, ask the operator to give you the number
+
+Common mistake:
+Ignoring the token number and later losing access to the partially filled application.
+
+If stuck, do this:
+If page closed suddenly, check SMS, email, browser history, or ask operator to reopen using reference details.
+
+Expected result:
+You have safely stored the application reference.
+
+Next step:
+Proceed to full form filling.
+
+Microinstructions:
+- Write down token/reference.
+- Take screenshot.
+- Save in notes.
+- Ask operator for number if at centre.
+- Never ignore this number.
+
+==================================================
+STEP 7: FILL FULL APPLICATION FORM
+==================================================
+
+Why this step matters:
+This is the main part of the PAN request.
+
+What to enter:
+- Full applicant details
+- Father’s name
+- Mother’s name if required
+- Address
+- Area, village, town, district, state
+- PIN code
+- Communication address
+- Identity / address / DOB proof selection if asked
+- Aadhaar number if applicable
+
+How to fill carefully:
+- Use exact official spelling
+- Ensure district, state, and PIN code match
+- Double-check father’s name
+- Use correct Aadhaar number
+- Do not guess missing details
+
+What the screen may look like:
+- Multiple tabs or sections
+- Personal details section
+- Contact details section
+- Document proof section
+- Declaration section
+
+Common mistake:
+Mismatch between Aadhaar name and entered name, or wrong address details.
+
+If stuck, do this:
+Pause and compare each field with the source document before moving to next section.
+
+Expected result:
+The full PAN form is completed correctly.
+
+Next step:
+Upload or confirm documents, photo, and signature if required.
+
+Microinstructions:
+- Enter applicant details fully.
+- Enter father’s name carefully.
+- Enter mother’s name if required.
+- Enter address line by line.
+- Enter village/town/city.
+- Enter district.
+- Enter state.
+- Enter PIN code.
+- Select proof types if asked.
+- Enter Aadhaar number if applicable.
+- Match all details with source documents.
+
+==================================================
+STEP 8: UPLOAD DOCUMENTS / PHOTO / SIGNATURE IF REQUIRED
+==================================================
+
+Why this step matters:
+Some application modes require supporting uploads. Wrong upload can cause rejection or hold.
+
+What to keep ready:
+- Scanned photo
+- Scanned signature or thumb impression
+- Required proof documents in accepted file format and size
+
+What to do:
+- Read size and format instructions on screen
+- Upload the correct file in each upload box
+- Wait until upload completes fully
+
+What the screen may look like:
+- Upload buttons beside photo/signature/document fields
+- File size note
+- Preview or success message after upload
+
+Common mistake:
+Uploading blurred files, wrong document in wrong field, oversized file, or unreadable signature.
+
+If stuck, do this:
+- Resize the image/document
+- Scan again in clear lighting
+- Rename files clearly
+- Use a net centre operator if upload keeps failing
+
+Expected result:
+All required uploads are attached correctly.
+
+Next step:
+Review the application carefully before final submission.
+
+Microinstructions:
+- Read format instructions.
+- Read file size rules.
+- Upload photo.
+- Upload signature.
+- Upload thumb impression if required.
+- Upload proof documents.
+- Wait for upload success.
+- Check clarity after upload.
+- Reupload if unclear.
+- Resize file if too large.
+- Take operator help if needed.
+
+==================================================
+STEP 9: REVIEW ALL DETAILS BEFORE SUBMISSION
+==================================================
+
+Why this step matters:
+Once submitted, correction may become difficult and may require a separate correction process.
+
+What to check carefully:
+- Name spelling
+- Date of birth
+- Father’s name
+- Aadhaar number
+- Mobile number
+- Email
+- Address
+- PIN code
+- Uploaded photo/signature clarity
+
+What to do:
+- Read the preview page slowly
+- Compare with Aadhaar and other proof
+- Correct mistakes before final submit
+
+Common mistake:
+Submitting quickly without checking preview.
+
+If stuck, do this:
+Read each line one by one aloud or ask another person/operator to cross-check.
+
+Expected result:
+The application is ready for safe submission.
+
+Next step:
+Submit and make payment.
+
+Microinstructions:
+- Open preview page.
+- Read slowly.
+- Check name.
+- Check DOB.
+- Check father’s name.
+- Check Aadhaar number.
+- Check mobile.
+- Check email.
+- Check address.
+- Check PIN code.
+- Check uploaded image clarity.
+- Correct errors before final submit.
+
+==================================================
+STEP 10: SUBMIT APPLICATION AND PAY FEES
+==================================================
+
+Why this step matters:
+The application is not completed until official fee payment is successful.
+
+What to do:
+- Click submit / proceed to payment
+- Choose payment method: UPI, debit card, credit card, or net banking
+- Complete payment carefully
+- Do not close the page during transaction
+
+What the screen may look like:
+- Payment gateway page
+- Bank or UPI app redirection
+- Success page after payment
+
+Common mistake:
+Refreshing the page during payment or assuming payment is done before confirmation appears.
+
+If stuck, do this:
+- Wait for final success page
+- Check bank message
+- If amount deducted but page failed, wait some time and check application status before paying again
+- Save transaction ID
+
+Expected result:
+Payment is successfully completed and submission is confirmed.
+
+Next step:
+Download or save acknowledgement.
+
+Microinstructions:
+- Click submit.
+- Choose payment method.
+- Complete payment carefully.
+- Do not refresh page.
+- Do not close browser.
+- Wait for success page.
+- Save transaction ID.
+- If deducted but failed, do not immediately repay.
+
+==================================================
+STEP 11: DOWNLOAD / SAVE ACKNOWLEDGEMENT RECEIPT
+==================================================
+
+Why this step matters:
+This is proof that your PAN application was submitted.
+
+What to do:
+- Download acknowledgement receipt
+- Take screenshot
+- Save PDF
+- Print if possible
+- Note acknowledgement number
+
+Common mistake:
+Closing browser without saving receipt.
+
+If stuck, do this:
+Check email, SMS, downloads folder, or portal status using token/reference.
+
+Expected result:
+You have valid proof of submission.
+
+Next step:
+Complete eKYC / eSign / verification if prompted.
+
+Microinstructions:
+- Download receipt.
+- Save PDF.
+- Take screenshot.
+- Print if possible.
+- Note acknowledgement number.
+- Keep receipt safe.
+
+==================================================
+STEP 12: COMPLETE OTP / eKYC / eSIGN VERIFICATION IF ASKED
+==================================================
+
+Why this step matters:
+Some PAN application flows need OTP-based verification or eSign to finalize processing.
+
+What to do:
+- Read instructions on screen
+- Enter OTP sent to registered mobile/email
+- Complete Aadhaar-based verification if applicable
+- Finish eSign carefully
+
+Common mistake:
+Using wrong mobile, waiting too long, or entering expired OTP.
+
+If stuck, do this:
+- Resend OTP
+- Check signal/network
+- Ensure Aadhaar-linked mobile is active
+- If eSign repeatedly fails, take operator assistance
+
+Expected result:
+Verification is completed and your application moves to processing.
+
+Next step:
+Track the application status.
+
+Microinstructions:
+- Read verification instructions.
+- Enter OTP quickly.
+- Use Aadhaar eKYC if applicable.
+- Complete eSign.
+- Use resend OTP if needed.
+- Check mobile signal.
+- Take help if repeated failure occurs.
+
+==================================================
+STEP 13: TRACK PAN APPLICATION STATUS
+==================================================
+
+Why this step matters:
+Tracking helps you know whether the application is under process, approved, pending, or rejected.
+
+What to do:
+- Open the PAN status tracking page
+- Enter acknowledgement number, token, or required details
+- Check the latest update
+
+Possible status messages:
+- Submitted
+- Under processing
+- Verification pending
+- On hold
+- Rejected
+- Dispatched
+- e-PAN generated
+
+Common mistake:
+Checking status too early and assuming failure.
+
+If stuck, do this:
+Wait some time and check again. Keep acknowledgement number safe.
+
+Expected result:
+You can monitor your application progress.
+
+Next step:
+If any issue appears, follow the error recovery instructions below.
+
+Microinstructions:
+- Open tracking page.
+- Enter acknowledgement or token/reference.
+- Check current status.
+- Understand status terms.
+- Recheck later if needed.
+- Keep acknowledgement safe.
+
+==================================================
+STEP 14: IF YOU APPLIED THROUGH NET CENTRE / MEESEVA / CSC
+==================================================
+
+Why this step matters:
+Many users depend on operators, so this path must be clear.
+
+What to do:
+- Carry Aadhaar and required documents
+- Tell operator clearly: “New PAN card application”
+- Ask total fee before they start
+- Watch spelling of name, DOB, father’s name, mobile, email
+- Ask for acknowledgement number and payment receipt
+- Ask whether OTP will come to your phone
+- Do not leave without a receipt or reference number
+
+Common mistake:
+Leaving the centre without acknowledgement or without checking entered details.
+
+If stuck, do this:
+If operator says “come later” without giving receipt, insist on at least the application/reference number.
+
+Expected result:
+Your application is filed even if you did not use the website yourself.
+
+Next step:
+Track status using the given acknowledgement details.
+
+Microinstructions:
+- Carry all documents.
+- Clearly state service needed.
+- Ask total fee.
+- Ask about service charge.
+- Watch operator entry carefully.
+- Check name, DOB, father’s name, mobile, email.
+- Ask for acknowledgement and receipt.
+- Confirm OTP handling.
+- Do not leave without proof.
+
+==================================================
+COMMON ERRORS AND EXACT SOLUTIONS
+==================================================
+
+Problem: OTP not received
+Solution:
+- Wait for some time
+- Check mobile network
+- Ensure correct mobile number is entered
+- Use resend OTP
+- If Aadhaar-linked mobile is inactive, choose another allowed verification path or visit operator
+
+Problem: Payment deducted but application not confirmed
+Solution:
+- Do not pay immediately again
+- Wait for gateway update
+- Check status using token/reference
+- Check email/SMS
+- Save bank transaction ID
+- If still unresolved, contact support or operator
+
+Problem: Name mismatch with Aadhaar
+Solution:
+- Enter name exactly as per supporting document
+- Do not use short forms casually
+- If mismatch is major, correct source document first or use proper proof set
+
+Problem: Wrong document uploaded
+Solution:
+- If not yet submitted, replace the upload
+- If already submitted and application is held/rejected, follow re-upload/correction instructions if available or reapply as needed
+
+Problem: Signature upload failed
+Solution:
+- Use proper file size and format
+- Sign on white paper with dark ink
+- Scan clearly
+- Crop properly
+- Take operator help if repeated failure
+
+Problem: Photo rejected or unclear
+Solution:
+- Use clear front-facing photo
+- Ensure face is visible
+- Avoid blur, shadows, and low resolution
+- Reupload in correct size
+
+Problem: Lost acknowledgement number
+Solution:
+- Check email
+- Check SMS
+- Check downloads/screenshots
+- Ask operator
+- Use portal recovery options if available
+
+Problem: Application on hold
+Solution:
+- Read the reason carefully
+- Correct document mismatch or upload issue
+- Complete pending verification
+- If needed, take help from operator or support channel
+
+Problem: User does not know English
+Solution:
+- Use voice assistant guidance in local language
+- Or visit nearest net centre / MeeSeva / CSC
+
+==================================================
+FAQ / USER DOUBTS
+==================================================
+
+Question: Can a student apply for a PAN card?
+Answer:
+Yes. A student can apply for a new PAN card if they need it for banking, scholarship, financial transactions, or future employment.
+
+Question: Can I apply from a mobile phone?
+Answer:
+Yes, but using a laptop or net centre may be easier if document upload or payment becomes difficult.
+
+Question: Is Aadhaar mandatory?
+Answer:
+Aadhaar is commonly used and very helpful, especially for OTP/eKYC, but the exact accepted proof depends on the application path.
+
+Question: Can I do this fully online?
+Answer:
+Yes, in many cases the process can be done online, depending on the verification path and document requirements.
+
+Question: Can I use a net centre?
+Answer:
+Yes. This is strongly recommended for users who are not comfortable with online forms or uploads.
+
+Question: What should I do after submission?
+Answer:
+Save acknowledgement, complete OTP/eSign if asked, and track status regularly.
+
+==================================================
+FINAL USER REMINDER
+==================================================
+
+Before final submission, check name, date of birth, father’s name, mobile number, and uploaded documents very carefully. A small mistake can delay or reject the application.
+
+==================================================
+ADDITIONAL BEST-PRACTICE NOTES
+==================================================
+
+- Always use details exactly as they appear on official proof.
+- Keep all screenshots and receipts until PAN is generated.
+- If using an operator, stay present during data entry whenever possible.
+- If status shows hold or rejection, act quickly on the reason shown.
+- If payment issue happens, avoid duplicate payment unless status confirms failure.
+- If application flow asks for OTP or eSign, complete it carefully because incomplete verification can delay processing.
+- Keep both digital and physical copies of important references.

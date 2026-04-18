@@ -1,0 +1,301 @@
+
+==================================================
+SECTION A: UNDERSTANDING ELIGIBILITY AND PREREQUISITES
+==================================================
+
+1. Confirm you are a citizen of India.
+2. Check your date of birth.
+3. Calculate your age as on January 1st of the current year.
+4. Ensure you are 18 years of age or above on the qualifying date (January 1st).
+5. Confirm you are not already enrolled in any electoral roll.
+6. Check if you have been enrolled as a voter in any other constituency.
+7. If already enrolled elsewhere, do not apply using Form 6.
+8. If you are a service personnel, ensure you are not already enrolled as service elector.
+9. Understand that Form 6 is only for first-time enrollment.
+10. Confirm you ordinarily reside at the address you will mention in the form.
+
+==================================================
+SECTION B: GATHER REQUIRED DOCUMENTS
+==================================================
+
+11. Collect proof of age documents.
+12. Choose one from: Birth certificate, 10th mark sheet, school leaving certificate, PAN card, Aadhaar card, Passport, Driving License.
+13. If you have birth certificate, keep it ready.
+14. If you have 10th mark sheet showing date of birth, keep it ready.
+15. If you have Aadhaar card, keep it ready.
+16. If you have Passport, keep it ready.
+17. Make a photocopy of the chosen age proof document.
+18. Self-attest the photocopy by signing across the copy.
+19. Collect proof of address documents.
+20. Choose one from: Aadhaar card, Electricity bill (at least 1 year old), Water bill, Gas connection bill, Bank passbook, Passport, Ration card, Rent agreement (registered), Sale deed (if own house), Land owning records.
+21. If the address proof is in your parent's or spouse's name, that is acceptable.
+22. Ensure the address proof document shows your current residential address.
+23. Make a photocopy of the address proof document.
+24. Self-attest the photocopy by signing across it.
+25. If you don't have any of the standard documents, collect any other document showing your address.
+26. Note the name of the alternative document you will use.
+27. If you are a student, decide whether to enroll at parent's address or hostel/mess address.
+28. If homeless, understand that field verification will be done.
+29. Collect Aadhaar card if available (optional but recommended).
+30. Note your Aadhaar number if you have it.
+31. Get a recent passport-size colour photograph taken.
+32. Ensure photograph size is 4.5 cm X 3.5 cm.
+33. Ensure photograph has white background.
+34. Ensure your eyes are open in the photograph.
+35. Ensure both edges of your face are clearly visible.
+36. Ensure photograph is good quality and clear.
+37. Do NOT sign on the photograph.
+38. Get at least 2 copies of the photograph printed.
+39. If you have disability, collect disability certificate.
+40. Note the percentage of disability mentioned in the certificate.
+41. Keep disability certificate ready to attach.
+
+==================================================
+SECTION C: FIND YOUR CONSTITUENCY DETAILS
+==================================================
+
+42. Find out your Assembly Constituency (AC) name and number.
+43. Find out your Parliamentary Constituency (PC) name and number.
+44. Visit the National Voters' Service Portal at www.nvsp.in.
+45. Click on "Know Your Constituency" or "Search Electoral Roll".
+46. Enter your address details.
+47. The portal will show your AC and PC details.
+48. Note down the AC number and name.
+49. Note down the PC number and name.
+50. Note down the name of the Electoral Registration Officer (ERO).
+51. Note down the ERO office address.
+52. If you are unable to find constituency details, don't worry; assistance will be provided.
+
+==================================================
+SECTION D: DOWNLOAD FORM 6
+==================================================
+
+53. Open a web browser on your computer or smartphone.
+54. Visit the official National Voters' Service Portal: www.nvsp.in
+55. On the homepage, look for "Forms" or "Download Forms" section.
+56. Click on "Form 6 - Application for inclusion of name in electoral roll".
+57. Download the Form 6 PDF file.
+58. Save the file to your computer or phone.
+59. Open the downloaded Form 6 PDF.
+60. Read all instructions carefully.
+61. Decide whether you will apply online or offline.
+
+==================================================
+SECTION E: FILL FORM 6 OFFLINE (MANUAL FILLING)
+==================================================
+
+62. If filling offline, print the Form 6 on A4 size paper.
+63. Use black or blue pen to fill the form.
+64. Write clearly in capital letters.
+65. At the top, fill the name of the Electoral Registration Officer.
+66. Fill the Assembly Constituency number and name (if known).
+67. Fill the Parliamentary Constituency number and name (if known).
+68. In Item (1): Write your full name in English.
+69. Write your full name in the official language of the state (Hindi or regional language).
+70. Ensure spelling is exact and matches your documents.
+71. In Item (2a): Tick the appropriate relationship - Father / Mother / Husband / Others.
+72. Write the name of your father, mother, or husband as applicable.
+73. If married female, preferably mention husband's name.
+74. In Item (2b): Write the surname of your relative.
+75. In Item (3): Tick your marital status - Married / Unmarried.
+76. In Item (4): Write your mobile number.
+77. Write your email address if available.
+78. In Item (5a): Write your Aadhaar number if you have it.
+79. If you don't have Aadhaar, tick the box at Item 5(b) "I do not have Aadhaar".
+80. In Item (6): Tick mark your gender - Male / Female / Third Gender.
+81. Tick mark clearly in the appropriate box.
+82. In Item (7a): Write your date of birth in DD/MM/YYYY format.
+83. Write your age in years as on the qualifying date.
+84. In Item (7b): Tick the box corresponding to the age proof document you are attaching.
+85. If attaching another document not listed, tick "Any other document" and write its name.
+86. In Item (8a): Write your complete current residential address.
+87. Write House/Flat number.
+88. Write Street/Road name.
+89. Write Locality/Area name.
+90. Write Town/City name.
+91. Write District name.
+92. Write State name.
+93. Write PIN code (mandatory).
+94. In Item (8b): Tick the box corresponding to the address proof document you are attaching.
+95. Tick whether the document is in your name or parent's/spouse's/adult child's name.
+96. If attaching another document not listed, write its name in the space provided.
+97. In Item (9): If you have a disability, tick the category - Locomotive / Visual / Deaf & Dumb / Other.
+98. Write description if "Other".
+99. Write percentage of disability.
+100. Tick "Yes" if you are attaching disability certificate.
+101. If no disability, leave Item (9) blank.
+102. In Item (10): If a family member is already enrolled at your address, fill their details.
+103. Write the name of the family member.
+104. Write your relationship with them.
+105. Write their EPIC number if known.
+106. If no family member enrolled, leave Item (10) blank.
+107. In the DECLARATION section, read all statements carefully.
+108. In Item (i): Write your place of birth - Village/Town, District, State/UT.
+109. In Item (ii): Write since when you are ordinarily residing at the current address (month and year).
+110. In Item (iii): Confirm you are applying for the first time and not enrolled elsewhere.
+111. In Item (iv): If you don't have standard age proof documents, write the name of the alternative document.
+112. If you have standard documents, strike off item (iv).
+113. In Item (v): Read the statement about punishment for false declaration.
+114. Write the date of filling the form.
+115. Write the place where you are filling the form.
+116. Sign in the space provided.
+117. If unable to sign, put your left hand thumb impression.
+118. If you are a person with intellectual disability, your legal guardian can sign.
+119. Paste the unsigned passport-size photograph in the space provided on the form.
+120. Ensure photograph is pasted properly and clearly visible.
+
+==================================================
+SECTION F: ATTACH DOCUMENTS TO FORM 6
+==================================================
+
+121. Take the self-attested photocopy of age proof document.
+122. Attach it to Form 6 using a pin or stapler.
+123. Take the self-attested photocopy of address proof document.
+124. Attach it to Form 6.
+125. If attaching disability certificate, attach its photocopy.
+126. Ensure all attachments are secure and will not fall off.
+127. Arrange documents in order: Form 6, photograph, age proof, address proof, disability certificate (if any).
+128. Do not fold documents excessively.
+129. Keep the filled Form 6 and attachments in a clean envelope or folder.
+
+==================================================
+SECTION G: SUBMIT FORM 6 OFFLINE
+==================================================
+
+130. Find the nearest Electoral Registration Officer (ERO) office.
+131. Note the ERO office address and working hours.
+132. Working hours are usually 10 AM to 5 PM on working days.
+133. Visit the ERO office during working hours.
+134. Carry the filled Form 6 with all attachments.
+135. Carry original documents for verification (age proof, address proof, Aadhaar, disability certificate).
+136. At the ERO office, look for the "New Voter Registration" or "Form 6 Submission" counter.
+137. Wait for your turn if there is a queue.
+138. When called, approach the officer politely.
+139. Tell the officer you want to submit Form 6 for new voter registration.
+140. Hand over the filled Form 6 with attachments.
+141. Hand over original documents for verification.
+142. Officer will check your form and documents.
+143. Answer any questions asked by the officer.
+144. Officer may ask you to confirm your details.
+145. If everything is in order, officer will accept your form.
+146. Officer will give you an acknowledgment receipt.
+147. The acknowledgment will have an acknowledgment number and date.
+148. Note down the acknowledgment number carefully.
+149. Keep the acknowledgment receipt safely.
+150. Ask the officer about the expected timeline for processing.
+151. Ask about field verification if applicable.
+152. Thank the officer and leave.
+
+==================================================
+SECTION H: APPLY ONLINE THROUGH NVSP PORTAL
+==================================================
+
+153. Open a web browser on your computer or smartphone.
+154. Visit www.nvsp.in (National Voters' Service Portal).
+155. On the homepage, look for "Apply Online for Registration of New Voter" or "Form 6".
+156. Click on it.
+157. You will see the online Form 6 application page.
+158. Read all instructions on the page.
+159. Click "Fill the form".
+160. Select the state where you reside.
+161. Select the district.
+162. Select the Assembly Constituency (AC).
+163. If you don't know your AC, use the "Search AC" option by entering your address.
+164. Proceed to fill the form.
+165. In "Applicant Details" section, enter your full name in English.
+166. Enter your full name in the state's official language (system may auto-transliterate).
+167. Select relationship type: Father / Mother / Husband / Others.
+168. Enter the name of your father/mother/husband.
+169. Enter surname.
+170. Select marital status.
+171. Enter your mobile number.
+172. Enter your email address.
+173. Enter your Aadhaar number if you have it.
+174. If no Aadhaar, tick the checkbox "I do not possess Aadhaar Number".
+175. Select your gender: Male / Female / Third Gender.
+176. Enter your date of birth in DD/MM/YYYY format.
+177. Your age will be calculated automatically.
+178. Select the document you are using as age proof from the dropdown.
+179. If using another document, select "Any other document" and enter its name.
+180. In "Address Details" section, enter your complete current residential address.
+181. Enter House/Flat number.
+182. Enter Street/Road name.
+183. Enter Locality/Area.
+184. Enter Town/City.
+185. Enter District.
+186. Enter State.
+187. Enter PIN code (mandatory).
+188. Select the document you are using as address proof from the dropdown.
+189. Indicate if the document is in your name or in parent's/spouse's/adult child's name.
+190. If using another document, select "Any other document" and enter its name.
+191. In "Disability Details" section (optional), select category of disability if applicable.
+192. Enter percentage of disability if applicable.
+193. Indicate if you are attaching disability certificate.
+194. In "Family Member Details" section (optional), enter name of family member already enrolled at your address.
+195. Enter relationship with that family member.
+196. Enter their EPIC number if known.
+197. In "Upload Documents" section, click "Choose File" for photograph.
+198. Select the scanned/digital copy of your passport-size photograph.
+199. Ensure file format is JPEG or PNG.
+200. Ensure file size is within the limit (usually 50-100 KB).
+201. Upload the photograph.
+202. Click "Choose File" for age proof document.
+203. Select the scanned copy of your self-attested age proof.
+204. Ensure file is clear and readable.
+205. Upload the age proof document.
+206. Click "Choose File" for address proof document.
+207. Select the scanned copy of your self-attested address proof.
+208. Upload the address proof document.
+209. If applicable, upload disability certificate.
+210. Review all uploaded documents on screen.
+211. In "Declaration" section, read all statements carefully.
+212. Enter your place of birth (Village/Town, District, State/UT).
+213. Enter since when you are ordinarily residing at the current address (month and year).
+214. Tick the checkboxes confirming the declaration statements.
+215. Tick the checkbox "I am aware of the punishment for false declaration".
+216. Enter the date of submission.
+217. Enter the place.
+218. If the portal requires captcha, enter the captcha code.
+219. Click "Preview" to review your entire application.
+220. Check all details carefully.
+221. If any error, click "Edit" and correct it.
+222. If all details are correct, click "Submit".
+223. The system will generate an acknowledgment.
+224. An acknowledgment number will be displayed on screen.
+225. Note down the acknowledgment number.
+226. Take a screenshot of the acknowledgment.
+227. Download the acknowledgment receipt PDF if available.
+228. Print the acknowledgment receipt.
+229. Save the acknowledgment number and receipt safely.
+230. You may receive a confirmation SMS and email on your registered mobile and email.
+
+==================================================
+SECTION I: AFTER SUBMISSION - TRACKING AND FOLLOW-UP
+==================================================
+
+231. After submitting Form 6, wait for processing.
+232. Processing usually takes 4-6 weeks.
+233. Field verification may be conducted by ERO or designated officer.
+234. If field verification is required, cooperate with the visiting officer.
+235. Provide original documents for verification.
+236. Track your application status online.
+237. Visit www.nvsp.in.
+238. Click on "Track Application Status".
+239. Enter your acknowledgment number or reference ID.
+240. Enter other required details (name, date of birth, etc.).
+241. Click "Track Status".
+242. The status will be displayed: Pending / Under Verification / Approved / Rejected.
+243. If status is "Approved", your name has been added to the electoral roll.
+244. Your EPIC (Voter ID Card) will be printed and dispatched.
+245. EPIC will be sent to your registered postal address by speed post.
+246. Delivery usually takes 1-2 weeks after approval.
+247. EPIC will be delivered free of cost under proper acknowledgment.
+248. Receive and sign for the EPIC delivery.
+249. Check all details on the EPIC card immediately upon receipt.
+250. Verify your name, father's/husband's name, address, date of birth, photograph, and EPIC number.
+251. If any error, apply for correction using Form 8.
+252. If application is rejected, check the reason online or contact ERO.
+253. Correct the errors and reapply.
+254. Keep your EPIC card safely.
+255. Make a photocopy of your EPIC for records.
+256. You can also download your e-EPIC (digital Voter ID) from NVSP portal after enrollment.

@@ -1,0 +1,349 @@
+
+==================================================
+SECTION A: UNDERSTAND ELIGIBILITY AND REPORTING WINDOW
+==================================================
+
+1. Confirm that a death has occurred in India.
+2. Note the exact date and time of death.
+3. Note the exact place of death (hospital name and address, or home address).
+4. Check if the death occurred in a hospital/nursing home (institutional death) or at home (domiciliary death).
+5. Check if the death was due to natural causes or unnatural causes (accident, suicide, homicide).
+6. Calculate how many days have passed since the death.
+7. If within 21 days, proceed with normal registration (free).
+8. If 22-30 days have passed, prepare for late registration with small fee.
+9. If 31 days to 1 year has passed, prepare for late registration with affidavit and higher authority permission.
+10. If more than 1 year has passed, understand that Magistrate's order is required.
+11. Confirm you are applying in the jurisdiction where the death occurred.
+12. If death was due to unnatural causes, confirm that police have been informed and FIR filed.
+
+==================================================
+SECTION B: GATHER REQUIRED DOCUMENTS
+==================================================
+
+13. If institutional death, collect the Medical Certificate of Cause of Death (MCCD) from the hospital.
+14. Ensure MCCD is signed and stamped by the attending doctor or Medical Officer.
+15. MCCD mentions: Deceased's name, age, gender, date and time of death, cause of death.
+16. If home death, request a death certificate from the attending doctor (if any).
+17. If no doctor was present, note that post-mortem may be required (especially if cause is unclear).
+18. Collect cremation receipt from the crematorium where the body was cremated.
+19. Or collect burial receipt from the cemetery/graveyard where the body was buried.
+20. Ensure cremation/burial receipt is original and mentions: Deceased's name, date of cremation/burial, name of crematorium/cemetery.
+21. Collect deceased's identity proof documents (any available):
+    - Aadhaar Card
+    - Voter ID Card
+    - Passport
+    - Ration Card
+    - PAN Card
+    - Driving License
+    - Any government-issued ID
+22. Make photocopies of deceased's identity documents.
+23. Collect identity proof of the informant (person reporting the death):
+    - Aadhaar Card (preferred)
+    - Voter ID
+    - Passport
+    - Any valid ID
+24. Make photocopy of informant's identity proof.
+25. Collect address proof of the informant.
+26. If delayed registration (after 21 days), prepare a notarized affidavit stating the reason for delay.
+27. If delayed by more than 1 year, prepare to apply for Non-Availability Certificate (NAC).
+28. If delayed by more than 1 year, consult a lawyer or approach the local Magistrate's office.
+29. If death was due to accident or unnatural cause, collect:
+    - Copy of FIR (First Information Report)
+    - Post-mortem report
+    - Police panchnama (if available)
+30. Keep all documents organized in a clean folder.
+
+==================================================
+SECTION C: IDENTIFY THE CORRECT REGISTRATION PORTAL
+==================================================
+
+31. Determine your state or union territory where death occurred.
+32. Search online for "[Your State] death registration portal" or "CRS portal [Your State]".
+33. Visit the official state government or municipal corporation website.
+34. Common state portals:
+    - Karnataka: eJanMa (ejanma.karnataka.gov.in) or Seva Sindhu
+    - Delhi: MCD Online (mcdonline.nic.in)
+    - Maharashtra: Aaple Sarkar (aaplesarkar.mahaonline.gov.in)
+    - Uttar Pradesh: e-Nagarsewa
+    - Tamil Nadu: CRS TN (www.tnrd.gov.in)
+    - Andhra Pradesh: MeeSeva
+    - National: Civil Registration System (crsorgi.gov.in)
+35. Bookmark the correct portal URL.
+36. Check if your state offers online death registration and certificate download.
+37. Note the portal's working hours and maintenance schedules if any.
+
+==================================================
+SECTION D: REGISTER ON THE PORTAL (IF APPLYING ONLINE)
+==================================================
+
+38. Open the official death registration portal.
+39. Look for "Register" or "Sign Up" or "General Public Sign Up" button.
+40. Click on it.
+41. Enter your full name (informant/family member).
+42. Enter your valid email address.
+43. Enter your mobile number.
+44. Enter a strong password.
+45. Re-enter the password to confirm.
+46. Enter captcha code if displayed.
+47. Click "Register" or "Submit".
+48. You will receive an OTP (One-Time Password) on your mobile and/or email.
+49. Enter the OTP in the portal.
+50. Click "Verify".
+51. Your account is now created.
+52. Note down your username and password securely.
+
+==================================================
+SECTION E: LOGIN TO THE PORTAL
+==================================================
+
+53. Go to the portal homepage.
+54. Click on "Login" or "Sign In".
+55. Enter your registered email or username.
+56. Enter your password.
+57. Enter captcha if required.
+58. Click "Login".
+59. You will be redirected to your dashboard.
+
+==================================================
+SECTION F: FILL DEATH REGISTRATION APPLICATION (FORM 2)
+==================================================
+
+60. On the dashboard, look for "Apply for Death Registration" or "New Death Registration" or "Form 2".
+61. Click on it.
+62. A new application form will open.
+63. Read all instructions carefully on the form.
+64. **Section 1: Event Details**
+65. Select "Type of Death": Institutional (Hospital) or Domiciliary (Home).
+66. Enter the exact date of death in DD/MM/YYYY format.
+67. Enter time of death (if known).
+68. Enter place of death: Hospital name and full address OR home full address.
+69. Enter district, state, and PIN code of place of death.
+70. **Section 2: Deceased Person's Details**
+71. Enter deceased's full name (as per Aadhaar or available ID).
+72. Select gender of the deceased: Male / Female / Third Gender.
+73. Enter deceased's Aadhaar number (if available).
+74. Enter deceased's date of birth (if known).
+75. Enter deceased's age at the time of death (in years).
+76. Enter deceased's father's name.
+77. Enter deceased's mother's name.
+78. If deceased was married, enter spouse's name.
+79. Enter deceased's occupation.
+80. Enter deceased's religion (optional).
+81. Enter deceased's nationality (Indian).
+82. **Section 3: Deceased's Permanent Address**
+83. Enter complete residential address: House/Flat number, Street, Locality, Town/City, District, State, PIN code.
+84. **Section 4: Cause of Death**
+85. Select manner of death: Natural / Accidental / Suicide / Homicide / Unknown.
+86. Enter cause of death as mentioned in MCCD or post-mortem report.
+87. If medical attention was received before death, tick "Yes" and enter doctor's/hospital's name.
+88. If no medical attention, tick "No".
+89. **Section 5: Place of Disposal (Cremation/Burial)**
+90. Enter name of crematorium or cemetery/graveyard.
+91. Enter full address of crematorium/cemetery.
+92. Enter date of cremation or burial.
+93. **Section 6: Informant's Details** (Person reporting the death)
+94. Enter informant's full name.
+95. Enter informant's relationship with the deceased (Son / Daughter / Spouse / Head of Family / Hospital Authority / Other).
+96. Enter informant's contact number.
+97. Enter informant's email address (if available).
+98. Enter informant's address.
+99. **Section 7: Declaration**
+100. Read the declaration statement carefully.
+101. Tick the checkbox confirming that all details provided are true and correct.
+102. Tick the checkbox acknowledging that providing false information is a punishable offense.
+
+==================================================
+SECTION G: UPLOAD REQUIRED DOCUMENTS
+==================================================
+
+103. Look for "Upload Documents" or "Attach Documents" section on the form.
+104. **If Institutional Death:**
+105. Click "Choose File" for "Medical Certificate of Cause of Death (MCCD)".
+106. Select the scanned PDF or image file of the MCCD issued by the hospital.
+107. Ensure file is clear and readable.
+108. Ensure file size is within limit (usually 200 KB to 2 MB).
+109. Upload the file.
+110. **For All Deaths:**
+111. Click "Choose File" for "Cremation/Burial Receipt".
+112. Select scanned copy of the cremation or burial receipt.
+113. Ensure file is clear and legible.
+114. Upload the file.
+115. Click "Choose File" for "Deceased's Identity Proof (Aadhaar / Voter ID / Passport / Any ID)".
+116. Upload scanned copy of deceased's ID.
+117. Click "Choose File" for "Informant's Identity Proof".
+118. Upload scanned copy of informant's Aadhaar or ID.
+119. **If Death Due to Unnatural Cause:**
+120. Click "Choose File" for "Post-Mortem Report".
+121. Upload the post-mortem report.
+122. Click "Choose File" for "FIR Copy" (if applicable).
+123. Upload copy of the FIR.
+124. **If Delayed Registration:**
+125. Click "Choose File" for "Affidavit for Delayed Registration".
+126. Upload notarized affidavit stating reason for delay.
+127. If more than 1 year delay, upload "Magistrate's Order" if already obtained.
+128. **If Home Death:**
+129. Click "Choose File" for "Doctor's Certificate" (if available).
+130. Upload the doctor's certificate or declaration.
+131. Review all uploaded documents on screen.
+132. Ensure all uploads are complete and correct.
+
+==================================================
+SECTION H: REVIEW AND SUBMIT APPLICATION
+==================================================
+
+133. After filling all sections and uploading documents, click "Preview" or "Review Application".
+134. The entire application will be displayed on screen.
+135. Carefully check all entered details: deceased's details, cause of death, place of death, informant's details.
+136. Verify uploaded documents are correct and clear.
+137. If any error is found, click "Edit" or "Go Back" and correct the error.
+138. If all details are correct, click "Submit" or "Final Submit".
+139. A confirmation message will appear on screen.
+140. An application reference number or acknowledgment number will be generated.
+141. Note down the application reference number carefully.
+142. Take a screenshot of the confirmation screen.
+143. You may receive a confirmation SMS and email on your registered mobile and email.
+
+==================================================
+SECTION I: PAYMENT (IF APPLICABLE)
+==================================================
+
+144. If registration is within 21 days, usually no fee is required.
+145. If delayed registration, a fee may be applicable.
+146. The portal will display the fee amount (e.g., ₹10, ₹50, ₹100 depending on state and delay).
+147. Click "Proceed to Pay" or "Make Payment".
+148. Choose payment mode: Debit Card / Credit Card / Net Banking / UPI.
+149. Enter card details or select bank.
+150. Complete the payment transaction.
+151. Wait for payment confirmation.
+152. Download payment receipt.
+153. Save the payment receipt PDF.
+154. Take a screenshot of payment confirmation.
+
+==================================================
+SECTION J: DOWNLOAD ACKNOWLEDGMENT RECEIPT
+==================================================
+
+155. After submission, look for "Download Acknowledgment" or "Print Application" button.
+156. Click on it.
+157. A PDF file of the acknowledgment will be generated.
+158. Download the PDF to your computer or phone.
+159. Open and verify the acknowledgment contains:
+     - Application reference number
+     - Date of submission
+     - Deceased's details
+     - Informant's details
+160. Print the acknowledgment receipt.
+161. Keep the printed acknowledgment safely.
+162. Save the PDF in your email or cloud storage.
+
+==================================================
+SECTION K: TRACK APPLICATION STATUS
+==================================================
+
+163. Wait for processing by the local Registrar.
+164. Processing usually takes 7 to 15 days for normal registration.
+165. Delayed registrations may take longer (15 to 30 days).
+166. To track status, visit the portal again.
+167. Click "Track Application Status" or "Application Status" on homepage.
+168. Enter your application reference number.
+169. Enter other required details: deceased's date of death, name, etc.
+170. Enter captcha if required.
+171. Click "Submit" or "Check Status".
+172. Status will be displayed: Pending / Under Verification / Approved / Rejected.
+173. If status is "Approved", proceed to download certificate.
+174. If status is "Rejected", note the reason for rejection.
+175. If rejected, correct errors and reapply or contact Registrar's office.
+
+==================================================
+SECTION L: DOWNLOAD DEATH CERTIFICATE
+==================================================
+
+176. Once approved, visit the portal homepage.
+177. Look for "Download Death Certificate" or "Search and Download Certificate" option.
+178. Click on it.
+179. You will be asked to enter search criteria.
+180. **Option 1: Search by Registration Number**
+181. If you have the registration number (from acknowledgment or hospital), enter it.
+182. Enter deceased's date of death.
+183. Enter captcha.
+184. Click "Search" or "Submit".
+185. **Option 2: Search by Details (if registration number not available)**
+186. Enter deceased's date of death.
+187. Enter deceased's name.
+188. Enter deceased's gender.
+189. Enter place of death.
+190. Enter captcha.
+191. Click "Search".
+192. The death record will be displayed on screen.
+193. Verify all details are correct: deceased's name, date of death, cause of death, place.
+194. Click "Download Certificate" or "Get Certificate".
+195. A fee may be required for downloading additional copies (usually ₹10 to ₹50).
+196. If fee is required, proceed to payment.
+197. Make payment using Debit Card / Credit Card / Net Banking / UPI.
+198. After successful payment, the certificate PDF will be generated.
+199. Download the PDF file.
+200. Save the PDF to your computer or phone.
+201. Open the PDF and verify all details:
+     - Deceased's name
+     - Date of death
+     - Place of death
+     - Cause of death
+     - Registration number
+     - Digital signature and seal
+202. Print the certificate on A4 size paper.
+203. The printed certificate is legally valid for all purposes (insurance, bank, property, etc.).
+204. Make multiple photocopies for records.
+
+==================================================
+SECTION M: OFFLINE APPLICATION (IF ONLINE NOT AVAILABLE)
+==================================================
+
+205. If online portal is not available or you prefer offline, visit the local Registrar's office.
+206. Registrar's office is located at:
+     - Municipal Corporation office (in urban areas)
+     - Gram Panchayat office (in rural areas)
+207. Note the office address and working hours (usually 10 AM to 5 PM, Monday to Friday).
+208. Visit the office during working hours.
+209. Look for "Birth and Death Registration" counter or section.
+210. Collect Form 2 (Death Registration Form) from the counter.
+211. Or download and print Form 2 from the portal before visiting.
+212. Fill Form 2 completely and accurately using a blue or black pen.
+213. Write clearly in capital letters.
+214. Attach all required documents:
+     - MCCD (if institutional death)
+     - Cremation/burial receipt
+     - Deceased's identity proof
+     - Informant's identity proof
+     - Affidavit (if delayed registration)
+     - Post-mortem report and FIR (if unnatural death)
+215. Submit the filled form with attachments at the counter.
+216. Hand over original documents for verification.
+217. Officer will verify all documents.
+218. If documents are in order, officer will accept the form.
+219. Officer will provide an acknowledgment receipt with a reference number.
+220. Note the reference number carefully.
+221. Keep the acknowledgment receipt safely.
+222. If fee is applicable, pay at the cash counter and collect payment receipt.
+223. Ask the officer about the expected timeline for certificate issuance.
+224. The certificate will be issued within 7 to 15 days for normal registration.
+225. You will be notified to collect the certificate from the office or it may be sent by post.
+226. Visit the office on the specified date to collect the certificate.
+227. Verify all details on the certificate before leaving the office.
+
+==================================================
+SECTION N: APPLY FOR DUPLICATE CERTIFICATE (IF LOST)
+==================================================
+
+228. If the original certificate is lost, apply for a duplicate.
+229. Visit the portal and look for "Duplicate Death Certificate" or "Search and Download".
+230. Enter registration number or search by deceased's details.
+231. Pay the duplicate certificate fee (usually ₹10 to ₹50).
+232. Download the duplicate certificate PDF.
+233. Print and use as needed.
+
+==================================================
+END OF MICROINSTRUCTIONS
+==================================================
+
+Total Microinstructions: 233
+(Core procedural steps for online and offline application, document upload, tracking, and certificate download)

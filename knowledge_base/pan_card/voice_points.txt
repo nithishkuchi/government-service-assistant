@@ -1,0 +1,228 @@
+
+SECTION A: BEFORE STARTING
+1. Collect Aadhaar card.
+2. Check whether Aadhaar-linked mobile number is active if Aadhaar OTP/eKYC may be used.
+3. Keep an active mobile number ready for application updates.
+4. Keep an active email ID ready.
+5. Keep full name ready exactly as per Aadhaar or supporting proof.
+6. Keep date of birth ready.
+7. Keep father’s name ready.
+8. Keep full address details ready.
+9. Keep PIN code ready.
+10. Keep identity proof ready if required.
+11. Keep address proof ready if required.
+12. Keep date of birth proof ready if required.
+13. Keep passport-size photo ready if upload is needed.
+14. Keep scanned signature or thumb impression ready if required.
+15. Keep payment method ready: UPI, debit card, credit card, or net banking.
+16. Ensure internet connection is stable.
+17. Do not start the form without checking whether the Aadhaar-linked mobile is active.
+18. If documents are confusing or mobile linkage is inactive, go to a net centre / MeeSeva / CSC.
+
+SECTION B: CHOOSING APPLICATION MODE
+19. Decide whether to apply by yourself or through an operator.
+20. Choose self-application if you can read the form and manage OTP/payment/upload.
+21. Choose operator assistance if you are not comfortable with the website or uploads.
+22. If choosing operator mode, visit the nearest net centre / MeeSeva / CSC.
+23. Tell the operator clearly: “I want to apply for a new PAN card.”
+24. Show your documents to the operator.
+25. Ask the operator the total cost before they begin.
+26. Ask separately about service charge.
+27. Watch the entered details carefully on the operator’s screen.
+28. Check spelling of your name before submission.
+29. Check date of birth before submission.
+30. Check father’s name before submission.
+31. Check mobile number before submission.
+32. Check email ID before submission.
+33. Ask the operator to show the preview screen before final submission.
+34. Do not leave the centre without receipt or reference number.
+35. Ask whether OTP will come to your phone.
+36. Ask for acknowledgement number and payment receipt.
+
+SECTION C: OPENING THE WEBSITE
+37. Open browser on mobile or laptop.
+38. Search carefully for the official new PAN card application page.
+39. Open only the authorized PAN application portal.
+40. Avoid advertisement links unless you intentionally want paid assistance.
+41. Avoid unknown private agent websites.
+42. Read options on the PAN services page carefully.
+43. Click the new PAN application option.
+
+SECTION D: SELECTING THE FORM
+44. Select new PAN application.
+45. Choose the correct application category.
+46. Usually select individual category for a normal applicant.
+47. Read whether the form is meant for Indian citizen / individual applicant.
+48. Do not choose the wrong category.
+49. Confirm initial fields like name, DOB, email, and mobile carefully.
+
+SECTION E: ENTERING BASIC DETAILS
+50. Enter full name exactly as per Aadhaar or proof.
+51. Enter date of birth correctly.
+52. Enter gender if asked.
+53. Enter active mobile number.
+54. Enter working email ID.
+55. Do not use nickname.
+56. Do not add extra initials unless they appear in proof.
+57. Recheck name before continuing.
+58. Recheck DOB before continuing.
+59. Recheck mobile number before continuing.
+60. Recheck email ID before continuing.
+61. Click continue / generate token / proceed.
+
+SECTION F: SAVING TOKEN / REFERENCE
+62. Note the token number immediately.
+63. Take screenshot of token/reference number.
+64. Save token/reference in phone notes.
+65. Write the number in a notebook.
+66. If at a centre, ask the operator to provide the token/reference number.
+67. Do not ignore the token/reference number.
+
+SECTION G: FULL FORM FILLING
+68. Open the full application form.
+69. Enter full applicant details.
+70. Enter father’s name carefully.
+71. Enter mother’s name if required.
+72. Enter house/address details carefully.
+73. Enter area, village, or locality.
+74. Enter town or city.
+75. Enter district correctly.
+76. Enter state correctly.
+77. Enter PIN code correctly.
+78. Select communication address as required.
+79. Select identity proof if asked.
+80. Select address proof if asked.
+81. Select date of birth proof if asked.
+82. Enter Aadhaar number if applicable.
+83. Match name exactly with Aadhaar/supporting proof.
+84. Match address with proof.
+85. Match district, state, and PIN code.
+86. Do not guess missing details.
+87. Pause and compare each field with source document.
+
+SECTION H: DOCUMENT / PHOTO / SIGNATURE UPLOAD
+88. Read upload format instructions.
+89. Read file size instructions.
+90. Upload correct photo in photo field.
+91. Upload correct signature in signature field.
+92. Upload thumb impression if required.
+93. Upload correct proof document in correct field.
+94. Wait for each upload to complete fully.
+95. Check preview after upload if available.
+96. Do not upload blurred documents.
+97. Do not upload wrong document in wrong field.
+98. Do not upload oversized file.
+99. If file is too large, resize it.
+100. If scan is unclear, scan again in clear lighting.
+101. Rename files clearly if needed.
+102. Use operator assistance if upload repeatedly fails.
+
+SECTION I: REVIEW BEFORE SUBMISSION
+103. Open the preview/review page.
+104. Read the preview slowly.
+105. Check full name spelling.
+106. Check date of birth.
+107. Check father’s name.
+108. Check Aadhaar number.
+109. Check mobile number.
+110. Check email ID.
+111. Check address.
+112. Check PIN code.
+113. Check district and state.
+114. Check uploaded photo clarity.
+115. Check uploaded signature clarity.
+116. Compare all fields with Aadhaar and other proof.
+117. Correct mistakes before final submit.
+118. Do not submit quickly without checking.
+
+SECTION J: SUBMISSION AND PAYMENT
+119. Click submit / proceed to payment.
+120. Choose payment method.
+121. Complete UPI payment if using UPI.
+122. Complete debit card payment if using debit card.
+123. Complete credit card payment if using credit card.
+124. Complete net banking payment if using net banking.
+125. Do not close the page during transaction.
+126. Do not refresh the page during payment.
+127. Wait for final success page.
+128. Save transaction ID.
+129. Check bank message after payment.
+130. If amount is deducted and page fails, do not pay again immediately.
+131. Wait and check application status first.
+
+SECTION K: ACKNOWLEDGEMENT
+132. Download acknowledgement receipt.
+133. Save acknowledgement PDF.
+134. Take screenshot of acknowledgement page.
+135. Print receipt if possible.
+136. Note acknowledgement number separately.
+137. Do not close browser before saving receipt.
+
+SECTION L: OTP / eKYC / eSIGN
+138. Read on-screen verification instructions.
+139. Enter OTP sent to registered mobile/email.
+140. Complete Aadhaar-based verification if applicable.
+141. Complete eSign carefully.
+142. Enter OTP before expiry.
+143. Use resend OTP if required.
+144. Check mobile signal if OTP is not received.
+145. Ensure Aadhaar-linked mobile is active.
+146. Take operator help if eSign repeatedly fails.
+
+SECTION M: TRACKING STATUS
+147. Open PAN application status tracking page.
+148. Enter acknowledgement number or token/reference.
+149. Enter any other required details.
+150. Check current application status.
+151. Understand possible statuses: Submitted, Under processing, Verification pending, On hold, Rejected, Dispatched, e-PAN generated.
+152. Do not assume failure if status is not immediate.
+153. Check again after some time if needed.
+154. Keep acknowledgement number safe for future tracking.
+
+SECTION N: ERROR HANDLING
+155. If OTP is not received, wait for some time.
+156. Check network if OTP is not received.
+157. Confirm mobile number entered is correct.
+158. Use resend OTP option.
+159. Use another allowed verification path if available.
+160. Visit operator if Aadhaar-linked mobile is inactive.
+161. If payment is deducted but application is not confirmed, do not pay again immediately.
+162. Wait for payment gateway update.
+163. Check status using token/reference.
+164. Check email and SMS for updates.
+165. Save bank transaction ID.
+166. Contact support or operator if issue remains unresolved.
+167. If name mismatches Aadhaar, enter name exactly as per supporting document.
+168. Do not use casual short forms.
+169. If mismatch is major, correct source document first or use proper proof set.
+170. If wrong document is uploaded before submission, replace the upload.
+171. If wrong document was uploaded after submission and application is held/rejected, follow correction/re-upload instructions if available or reapply if needed.
+172. If signature upload fails, use proper file size and format.
+173. Sign on white paper with dark ink.
+174. Scan signature clearly.
+175. Crop signature properly.
+176. Take operator help for repeated signature upload failure.
+177. If photo is rejected, use clear front-facing photo.
+178. Ensure face is visible.
+179. Avoid blur and shadows.
+180. Reupload in proper size and format.
+181. If acknowledgement number is lost, check email.
+182. Check SMS for acknowledgement details.
+183. Check screenshots and downloads folder.
+184. Ask operator for the acknowledgement number.
+185. Use portal recovery option if available.
+186. If application is on hold, read the hold reason carefully.
+187. Correct document mismatch if possible.
+188. Complete pending verification if required.
+189. Take help from operator or support channel if needed.
+190. If user does not know English, use local-language guidance or operator support.
+
+SECTION O: FINAL REMINDER MICROINSTRUCTIONS
+191. Check name very carefully before final submission.
+192. Check date of birth very carefully before final submission.
+193. Check father’s name very carefully before final submission.
+194. Check mobile number very carefully before final submission.
+195. Check uploaded documents very carefully before final submission.
+196. Save every receipt, token, acknowledgement, and transaction proof.
+197. Track status regularly after submission.
+198. Keep all original documents safe.

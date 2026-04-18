@@ -1,0 +1,600 @@
+
+
+OVERVIEW:
+This guide explains how to use the Passport Seva Online Portal for major passport services. It covers portal registration, login, online application submission, payment, appointment scheduling, rescheduling rules, and appointment-day requirements. It includes detailed guidance for ordinary passport, Tatkaal passport, and diplomatic/official passport services.
+
+TABLE OF CONTENTS
+1. Service 1: Fresh / Reissue Ordinary Passport
+2. Service 2: Tatkaal Passport
+3. Service 3: Diplomatic / Official Passport
+4. Common Important Notes
+5. Quick Reference Summary
+6. Contact & Support
+
+==================================================
+SERVICE 1: FRESH / REISSUE ORDINARY PASSPORT
+==================================================
+
+INITIAL REGISTRATION & LOGIN
+
+Step 1: Portal Registration
+What to do:
+- Open the Passport Seva Online Portal
+- Click on "Register" button on the navigation menu
+- Fill in all required details
+- Click on "Sign Up"
+- Confirm your registered email ID
+
+Expected result:
+Your account is created successfully.
+
+Microinstructions:
+- Open official Passport Seva portal.
+- Click Register.
+- Fill all registration fields.
+- Select correct Passport Office / RPO.
+- Click Sign Up.
+- Confirm email.
+
+Step 2: Portal Login
+What to do:
+- Login using Registered Login ID
+- Enter Password
+
+Important note:
+Password must be reset every 3 months as it expires.
+
+Expected result:
+You enter the dashboard successfully.
+
+Microinstructions:
+- Enter Login ID.
+- Enter Password.
+- Login.
+- Reset password every 3 months.
+- Keep password secure.
+
+--------------------------------------------------
+PREREQUISITE: REGIONAL PASSPORT OFFICE (RPO) SELECTION
+--------------------------------------------------
+
+Why RPO Selection Matters:
+- Select RPO based on your current residing location
+- Selected RPO will reflect the nearest Passport Seva Kendra (PSK) during appointment scheduling
+
+If Changing RPO:
+If you are reissuing passport from a different Regional Passport Office than where the present passport was issued:
+- Create a new login ID on the Passport Seva Portal
+- You may use the same email ID previously used
+- Click on "Register"
+- Complete registration process
+- Select new "Passport Office"
+- Choose any PSK/RPO as per convenience
+
+Flexibility:
+Applicants may apply for passport services at any PSK/RPO across India based on preference.
+
+Microinstructions:
+- Choose RPO based on present residence.
+- Create new login if changing RPO.
+- Use same email if needed.
+- Select new Passport Office carefully.
+
+--------------------------------------------------
+ONLINE APPLICATION PROCESS
+--------------------------------------------------
+
+Step 1: Access Services
+What to do:
+- On the dashboard, click on 'Services' button on the Overview page or left menu
+- Click on "Apply for Fresh Passport/Re-issue of Passport"
+
+Expected result:
+Passport application form opens.
+
+Microinstructions:
+- Login.
+- Open Services.
+- Click Fresh Passport/Re-issue.
+
+Step 2: Complete Application Form (9 Steps)
+
+Step 01: Passport Type
+- Select type of ordinary passport required
+
+Step 02: Applicant Details
+- Enter full name
+- Enter date of birth
+- Enter gender
+- Enter nationality and other personal information
+
+Step 03: Family Details
+- Enter father's details
+- Enter mother's details
+- Enter spouse details if applicable
+
+Step 04: Address Details
+- Enter current residential address
+- Enter State/Union Territory
+- Enter pin code
+
+Step 05: Emergency Contact
+- Enter emergency contact name
+- Enter emergency contact details
+- Enter relationship to applicant
+
+Step 06: Previous Passport
+- Enter previous passport details if applicable
+- Enter passport number
+- Enter issue date
+- Enter expiry date
+
+Step 07: Other Details
+- Enter additional information as required
+- Enter occupation details
+- Enter marital status
+
+Step 08: Passport Preview
+- Review all entered information
+- Verify accuracy
+
+Step 09: Details Verification
+- Perform final verification of all details
+
+Important Note:
+You can save the application at any point and resume later.
+
+Common mistake:
+Submitting without checking spelling, DOB, address, and passport category.
+
+If stuck, do this:
+Save the application and resume later after cross-checking documents.
+
+Expected result:
+Application is ready for final submission.
+
+Microinstructions:
+- Fill all 9 steps carefully.
+- Match details with supporting documents.
+- Review preview page.
+- Verify every field.
+- Save and continue later if needed.
+
+Step 3: Submit Application
+What to do:
+- Carefully validate all details before submitting
+- Click "Submit"
+
+Important note:
+You will NOT be able to make changes once application is submitted.
+
+Expected result:
+A Unique Application Reference Number (ARN) is generated.
+
+Microinstructions:
+- Recheck all fields.
+- Click Submit.
+- Note ARN immediately.
+- Save ARN in phone and notebook.
+
+--------------------------------------------------
+PAYMENT & APPOINTMENT SCHEDULING
+--------------------------------------------------
+
+Step 4: Initiate Payment & Appointment
+What to do:
+- Click on "View > Pay and Schedule Appointment"
+
+Important note:
+Prior payment of applicable passport service fee is mandatory for booking appointments.
+
+Step 5: Payment Process
+What to do:
+- Select "Online Payment"
+- Select Appointment Quota: Normal
+- Select preferred PSK or POPSK
+- Review next available appointment date
+- Click "Pay and Book Appointment"
+- Complete payment at payment gateway
+
+Expected result:
+Payment is completed and appointment is booked.
+
+Microinstructions:
+- Open submitted application.
+- Click Pay and Schedule Appointment.
+- Choose Online Payment.
+- Choose Normal quota.
+- Select PSK/POPSK.
+- Click Pay and Book Appointment.
+- Complete payment.
+- Save transaction details.
+
+Step 6: Appointment Confirmation
+What happens:
+- Portal displays Appointment Confirmation screen
+- SMS is sent to registered mobile number with appointment date, time, and PSK details
+
+Expected result:
+Appointment is confirmed.
+
+Microinstructions:
+- Check confirmation screen.
+- Save appointment details.
+- Save SMS.
+
+Step 7: Appointment Rescheduling
+What to do:
+- Use "Schedule/Reschedule Appointment" link if needed
+
+Rules:
+- Normal users can reschedule appointment 3 times
+
+Microinstructions:
+- Use reschedule option only if needed.
+- Track number of reschedules used.
+
+--------------------------------------------------
+ON THE DAY OF APPOINTMENT
+--------------------------------------------------
+
+Important reminders:
+- Arrive on scheduled appointment date and time
+- Carry all necessary original documents
+- Carry photocopies if needed
+- Service is provided at the discretion of Passport Seva Kendra In-charge / Passport Officer
+
+Special note for minor applicants:
+For applicants below 4 years of age:
+- Carry recent passport size photograph (4.5 X 3.5 cm)
+- Photograph must have white background
+
+Important deadline:
+Resubmission of application form is required if applicant does not visit PSK within 90 days from online form submission.
+
+Microinstructions:
+- Reach on time.
+- Carry originals.
+- Carry photocopies if needed.
+- Carry child photo if applicant is below 4 years.
+- Attend within 90 days.
+
+==================================================
+SERVICE 2: TATKAAL PASSPORT
+==================================================
+
+WHAT IS TATKAAL?
+Tatkaal Passport is an expedited passport processing service for urgent travel requirements.
+
+REGISTRATION & LOGIN
+Follow the same process as Fresh / Reissue Ordinary Passport:
+- Register
+- Confirm email
+- Login with Login ID and Password
+
+--------------------------------------------------
+DOCUMENT REQUIREMENTS FOR TATKAAL
+--------------------------------------------------
+
+For Applicants Above 18 Years of Age:
+- Submit address proof
+- Submit birth proof
+- Submit Non-ECR proof if applicable
+- Submit ANY 3 documents from the List of Acceptable Documents
+
+For Applicants Below 18 Years of Age:
+- Submit address proof
+- Submit birth proof
+- Submit Non-ECR proof if applicable
+- Submit ANY 2 documents from Serial Numbers 1 to 6 in the List of Acceptable Documents
+
+List of Acceptable Documents:
+1. PVC Aadhaar Card / Complete Original Aadhaar Letter / e-Aadhaar Card
+   - Must have digital signature verified mark issued by UIDAI
+   - Small cut-out Aadhaar cards printed by non-UIDAI entities are not accepted
+
+2. PAN Card
+
+3. Student Photo Identity Card
+   - Issued by recognized educational institutions
+
+4. Birth Certificate
+   - Issued under the Registration of Births and Deaths Act, 1969
+
+5. Ration Card
+   - Latest or updated version
+
+6. Last Passport Issued
+   - In case of reissue only
+
+7. Electors Photo Identity Card (EPIC)
+
+8. Driving Licence
+   - Valid and within jurisdiction of State of submission
+
+9. Bank Passbook / Kisan Passbook / Post Office Passbook
+   - With applicant photo attested
+   - With latest transaction updated
+
+10. SC / ST / OBC Certificate
+
+11. Arms License
+   - Issued under the Arms Act, 1959
+
+12. Pension Documents
+   - Ex-servicemen’s Pension book
+   - Pension payment order to retired government employees
+   - Ex-servicemen’s widow/dependent certificates
+   - Old age pension order
+
+13. Service Photo Identity Card
+   - Issued by State/Central Government
+   - PSU
+   - Local bodies
+   - Public limited companies
+
+--------------------------------------------------
+INELIGIBLE CATEGORIES FOR TATKAAL SCHEME
+--------------------------------------------------
+
+Universal Ineligibility:
+- Name change cases
+- Address outside RPO jurisdiction where restricted
+- Annexure C minor cases
+- Government repatriation cases
+- Deportation cases
+- Travelled on Emergency Certificate
+- Restricted Naga origin cases
+- Restricted J&K origin cases
+- Criminal court cases under section 6(2)(e) or 6(2)(f)
+- Adverse police report
+- Watch list cases
+- Habitual passport losers
+- Earlier travelled on forged/fake passports
+
+Fresh Issue Cases Ineligible:
+- Citizens by Registration/Naturalization
+- Adopted children
+- Children out of wedlock with single parent
+- Children born out of surrogacy
+- Single parent minors
+
+Re-issue Cases Ineligible:
+- Lost/stolen passports
+- Short validity passport reissue
+- Passport damaged beyond recognition
+- Change in sex / appearance / signature
+- DOB / POB correction
+- Change in father/mother/spouse name
+
+--------------------------------------------------
+UNDERTAKING FOR TATKAAL SCHEME
+--------------------------------------------------
+
+Mandatory requirement:
+Applicants under Tatkaal scheme must fill:
+- Undertaking for Tatkaal Scheme (Hindi), OR
+- Undertaking for Tatkaal Scheme (English)
+
+--------------------------------------------------
+TATKAAL APPOINTMENT DETAILS
+--------------------------------------------------
+
+Important rule:
+Effective from 01 April 2023, Tatkaal appointment can be rescheduled only ONE time.
+
+--------------------------------------------------
+ONLINE APPLICATION PROCESS (SAME AS ORDINARY)
+--------------------------------------------------
+
+Follow the same 9-step process as ordinary passport, but select Tatkaal where applicable.
+
+Microinstructions:
+- Register and login.
+- Select Tatkaal service.
+- Fill 9 steps.
+- Keep Tatkaal documents ready.
+- Fill Undertaking for Tatkaal Scheme.
+- Submit.
+- Save ARN.
+
+--------------------------------------------------
+PAYMENT & APPOINTMENT SCHEDULING – TATKAAL
+--------------------------------------------------
+
+What to do:
+- Click "View > Pay and Schedule Appointment"
+- Select Online Payment
+- Select Appointment Quota as Tatkaal
+- Select PSK/POPSK
+- Review next available date
+- Click "Pay and Book Appointment"
+- Complete payment
+- Save confirmation and SMS
+
+Rescheduling:
+- Tatkaal can be rescheduled ONE time only
+
+Microinstructions:
+- Choose Tatkaal quota.
+- Pay online.
+- Save receipt.
+- Save SMS.
+- Reschedule only once if required.
+
+==================================================
+SERVICE 3: DIPLOMATIC / OFFICIAL PASSPORT
+==================================================
+
+WHO NEEDS DIPLOMATIC / OFFICIAL PASSPORT?
+- Government officials traveling on official business
+- Diplomats
+- Persons authorized by Government for official purposes
+
+REGISTRATION & LOGIN
+
+Step 1: Portal Registration
+- Click Register
+- Fill details
+- Sign Up
+- Confirm email
+
+Step 2: Portal Login
+- Login using Login ID and Password
+
+--------------------------------------------------
+ONLINE APPLICATION PROCESS
+--------------------------------------------------
+
+Step 3: Access Application
+- Click "Apply for Diplomatic/Official Passport"
+
+Step 4: Complete Application Form
+Fill in all required details:
+- Personal information
+- Official designation
+- Purpose of passport
+- Government authorization details
+- Address details
+- Emergency contact
+- Other required information
+
+Step 5: Submit Application
+- Review all details carefully
+- Click Submit
+- ARN will be generated
+
+Important note:
+No changes can be made after submission.
+
+Microinstructions:
+- Click Diplomatic/Official service.
+- Fill official details carefully.
+- Review.
+- Submit.
+- Save ARN.
+
+--------------------------------------------------
+PAYMENT & APPOINTMENT SCHEDULING
+--------------------------------------------------
+
+Step 6: Initiate Payment & Appointment
+- Click "View > Pay and Schedule Appointment"
+- Prior online payment is mandatory
+
+Step 7: Payment Process
+- Select Online Payment
+- Select quota:
+  - Normal
+  - Tatkaal, only if applicable
+- Select preferred PSK / POPSK / CPV Division location
+- Review date
+- Click Pay and Book Appointment
+- Complete payment
+
+Step 8: Appointment Confirmation
+- Confirmation screen displayed
+- SMS sent with date, time, and location
+
+Step 9: Appointment Rescheduling
+- Use reschedule link if needed
+- Normal reschedule limit: 3 times
+- If Tatkaal applies: 1 time
+
+--------------------------------------------------
+ON THE DAY OF APPOINTMENT – SUBMISSION LOCATIONS
+--------------------------------------------------
+
+Location 1: For New Delhi Applicants
+- Consular, Passport and Visa (CPV) Division
+- Patiala House, New Delhi
+- Bring printed copy of online application
+- Bring original documents
+
+Location 2: For Other State Applicants
+- Passport Office attached to present address
+- Bring printed application form
+- Bring original documents
+
+Before appointment:
+- Print online application form
+- Prepare original documents
+- Refer to printed form instruction page for checklist and specific requirements
+
+Microinstructions:
+- Print form.
+- Carry originals.
+- Check correct submission location.
+- Reach on time.
+- Follow officer instructions.
+
+==================================================
+IMPORTANT NOTES FOR ALL SERVICES
+==================================================
+
+General Information:
+- Services are provided at the discretion of Passport Seva Kendra In-charge / Passport Officer
+- All information must be accurate and truthful
+- No false documentation will be tolerated
+- Provide supporting documents for all claims
+
+Payment Information:
+- Prior payment is mandatory for appointment booking
+- Payment is through online payment gateway only
+- Keep payment receipt safely
+
+Application Timeline:
+- Visit PSK within 90 days of online form submission
+- If not visited within 90 days, application must be submitted again
+
+Password Management:
+- Reset password every 3 months
+- Do not share password
+- Use strong password
+
+SMS Notifications:
+- Keep mobile number updated
+- Save appointment SMS
+
+Document Verification:
+- Original documents will be verified at PSK
+- Photocopies may also be required
+- Refer to confirmation SMS and printed form instructions
+
+==================================================
+QUICK REFERENCE SUMMARY
+==================================================
+
+Service: Fresh / Reissue Ordinary Passport
+Type: Regular
+Processing: Standard
+Rescheduling Limit: 3 times
+Special Requirement: 90-day submission deadline
+
+Service: Tatkaal Passport
+Type: Expedited
+Processing: Fast
+Rescheduling Limit: 1 time only
+Special Requirement: Specific documents and Tatkaal eligibility rules apply
+
+Service: Diplomatic / Official Passport
+Type: Official
+Processing: Standard
+Rescheduling Limit: 3 times (Tatkaal if applicable: 1 time)
+Special Requirement: Government authorization and correct submission location
+
+==================================================
+CONTACT & SUPPORT
+==================================================
+
+For additional assistance:
+- Visit the official Passport Seva Online Portal
+- Check FAQs section on portal
+- Contact nearest Passport Seva Kendra
+- Refer to printed application form instructions
+
+==================================================
+FINAL USER REMINDER
+==================================================
+
+Before submitting any passport application, check name, date of birth, address, passport category, family details, and document details very carefully. Once submitted, changes cannot be made. Save ARN, payment receipt, appointment details, and SMS safely. Attend the appointment within 90 days of online submission.

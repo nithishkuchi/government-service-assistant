@@ -1,0 +1,150 @@
+ENROLMENT APPROACHES
+1. Decide whether your enrolment is Document Based or HoF-based.
+2. Use Document Based enrolment if you have one valid PoI and one valid PoA.
+3. Use HoF-based enrolment if you do not have documents but your family relationship can be established.
+4. Keep Proof of Relationship (PoR) documents ready if using HoF-based enrolment.
+5. Confirm HoF details before visiting the centre.
+SECTION A: BEFORE GOING TO THE CENTRE
+1. Carry original Proof of Identity (PoI) document.
+2. Carry original Proof of Address (PoA) document.
+3. Carry Aadhaar Enrolment Form if already available.
+4. If form is not available, collect it at the centre.
+5. Keep your mobile number ready.
+6. Ensure your mobile number is active and working.
+7. Keep exact name ready as per your identity document.
+8. Keep exact address ready as per your address proof.
+9. Check whether name on PoI matches what you will write in the form.
+10. Check whether address on PoA matches what you will write in the form.
+11. Decide whether to go by walk-in or appointment.
+12. If no documents are available, prepare for Head of Family (HoF) enrolment.
+13. Confirm whether the HoF is already enrolled if using HoF method.
+14. Note down nearby Aadhaar centres in advance.
+15. Keep all original documents safely in a folder.
+
+SECTION B: LOCATE THE CENTRE
+16. Search “Aadhaar Enrolment Centre near me” on Google.
+17. Or visit https://appointments.uidai.gov.in/.
+18. Select your district.
+19. Find the nearest Aadhaar Enrolment Centre / MeeSeva / CSC / Sachivalayam.
+20. Check whether the centre allows walk-in.
+21. If the centre says appointment only, book a free appointment.
+22. Travel to the chosen centre.
+23. Go to the Aadhaar-marked counter.
+24. Meet the Aadhaar Operator.
+25. If there is a queue, ask politely for token number.
+26. Ask expected waiting time if required.
+27. Tell the operator clearly: “I want to apply for new Aadhaar.”
+
+SECTION C: DOCUMENT SUBMISSION
+28. Show original PoI document.
+29. Show original PoA document.
+30. If required, show any additional supporting document.
+31. Do not give only photocopies for verification.
+32. Ensure operator verifies originals only.
+33. Ensure operator does not keep your original documents.
+34. If you have no documents, tell operator immediately.
+35. Request HoF enrolment guidance if no documents are available.
+36. Confirm that the name in PoI matches your form details.
+37. Confirm that the address in PoA matches your form details.
+
+SECTION D: FORM FILLING
+38. Take the Aadhaar Enrolment Form from the centre if needed.
+39. Fill the form in CAPITAL BLOCK LETTERS only.
+40. Write full name exactly as in PoI document.
+41. Enter date of birth correctly in DD/MM/YYYY format.
+42. Select correct gender.
+43. Write full current address exactly as in PoA document.
+44. Enter mobile number.
+45. Enter email ID if available.
+46. Put thumb impression or signature at the bottom right.
+47. Recheck full name.
+48. Recheck date of birth.
+49. Recheck gender.
+50. Recheck address.
+51. Recheck mobile number.
+52. Watch the operator if they are entering details on computer.
+53. Correct spelling mistakes immediately before proceeding.
+
+SECTION E: BIOMETRIC CAPTURE
+54. Sit properly in front of the camera.
+55. Look straight at the camera for photograph.
+56. Keep your face clearly visible.
+57. Give all 10 fingerprints.
+58. Place each finger properly as instructed.
+59. Keep both eyes wide open during iris scan.
+60. Stay still during iris capture.
+61. Follow operator instructions carefully.
+62. Inform operator if fingerprints are weak.
+63. Inform operator if iris scan is difficult.
+64. Allow operator to retry biometric capture 2–3 times.
+65. Cooperate if exception process is required.
+66. Stay calm during biometric issues.
+
+SECTION F: SUBMISSION AND ACKNOWLEDGEMENT
+67. Wait while operator uploads all enrolment data.
+68. Collect acknowledgement slip after submission.
+69. Check the 28-digit Enrolment ID (EID) on the slip.
+70. Check name on the slip immediately.
+71. Check date of birth on the slip immediately.
+72. Check address on the slip immediately.
+73. Check mobile number if shown.
+74. Ask operator to correct visible mistakes immediately if possible.
+75. Keep the acknowledgement slip safely.
+76. Take photo or screenshot of the slip if possible.
+77. Save the EID in your phone.
+78. Do not leave the centre without the acknowledgement slip.
+
+SECTION G: STATUS CHECK
+79. Wait for processing time before checking too early.
+80. Visit https://uidai.gov.in.
+81. Click “Check Aadhaar Status”.
+82. Enter the 28-digit EID.
+83. Enter captcha.
+84. Submit and check status.
+85. If status is not ready, check again later.
+86. Keep the acknowledgement slip safe until Aadhaar is generated.
+
+SECTION H: DOWNLOAD e-AADHAAR
+87. Wait until status shows “Processed”.
+88. Go to UIDAI download option.
+89. Enter EID and required details.
+90. Enter captcha or OTP if asked.
+91. Download e-Aadhaar PDF.
+92. Save the PDF safely.
+93. Print the PDF if needed.
+94. Keep both soft copy and hard copy.
+
+SECTION I: SPECIAL SITUATIONS
+95. If centre says “appointment only”, book free appointment first.
+96. If operator says “come tomorrow”, ask exact next date and time.
+97. Confirm your documents are sufficient before leaving.
+98. Return early next day if asked.
+99. If mobile number needs update, tell operator during enrolment.
+100. Clearly say: “I want to update my mobile number along with new Aadhaar.”
+101. Give your correct mobile number.
+102. Confirm mobile number entry before leaving.
+103. If no documents are available, ask for HoF process.
+104. Ensure HoF details are ready if using HoF method.
+
+SECTION J: PROBLEM HANDLING
+105. If fingerprints fail, tell operator immediately.
+106. If iris scan fails, tell operator immediately.
+107. Allow retries.
+108. Cooperate in exception process.
+109. Do not leave due to biometric fear.
+110. If acknowledgement slip is lost, revisit same centre.
+111. Carry any ID proof when asking for duplicate EID.
+112. Ask for duplicate acknowledgement or EID support.
+113. If available, use registered mobile number on UIDAI portal.
+114. If name spelling mismatch is found, request correction immediately at enrolment stage.
+115. If address mismatch is found, compare again with PoA document.
+
+SECTION K: FINAL REMINDERS
+116. Always carry original documents only.
+117. Stay present while operator fills the form.
+118. Ask service charge clearly if centre is private.
+119. Aadhaar enrolment itself is free at official centres.
+120. Keep acknowledgement slip until e-Aadhaar is downloaded.
+121. Check status after reasonable processing time.
+122. Save all references and screenshots.
+123. Once e-Aadhaar is downloaded, fresh enrolment process is complete.

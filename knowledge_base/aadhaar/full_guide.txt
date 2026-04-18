@@ -1,0 +1,685 @@
+SERVICE NAME: Aadhaar New Enrolment (Fresh Application)
+
+OVERVIEW:
+This service helps a first-time applicant apply for a new Aadhaar card. The process is primarily offline at an enrolment centre. The user can go directly to an Aadhaar Enrolment Centre, MeeSeva Centre, Common Service Centre (CSC), or Sachivalayam (in AP/TS). This guide is written for normal adult applicants applying for Aadhaar for the first time.
+
+WHO IS THIS FOR:
+- First-time Aadhaar applicants
+- People who have never received an Aadhaar card
+- Students, adults, elderly persons, farmers, and villagers
+- Users in villages, mandals, towns, and cities
+- Users who may need operator assistance or face biometric issues
+
+IMPORTANT NOTE:
+Aadhaar enrolment is free at official centres. However, private net centres or some CSCs may charge a service fee (usually ₹50–₹300). Always ask the service charge clearly before starting. In villages and mandal-level centres, walk-in is allowed and most common. If the centre says “appointment only”, book a free appointment first on the UIDAI website.
+
+ENROLMENT APPROACHES:
+
+There are two main approaches for Aadhaar new enrolment:
+
+1. Document Based Enrolment
+   - Submit one valid Proof of Identity (PoI) document
+   - Submit one valid Proof of Address (PoA) document
+
+2. Head of Family (HoF)-based Enrolment
+   - If the applicant does not have valid documents, the Head of Family (HoF) may introduce the family member
+   - This is done using documents that establish Proof of Relationship (PoR)
+   - The operator/centre will guide the applicant on the applicable HoF process
+
+MAIN APPLICATION MODES:
+1. Direct Walk-in at Aadhaar Enrolment Centre / MeeSeva / CSC / Sachivalayam
+2. Book online appointment and then visit the centre
+3. Head of Family (HoF) enrolment (if you have no documents)
+
+==================================================
+STEP 1: BEFORE GOING – WHAT SHOULD I CARRY / PREPARE?
+==================================================
+
+Why this step matters:
+Being fully prepared prevents rejection and multiple visits to the centre.
+
+What to keep ready:
+- Original PoI (Proof of Identity) and PoA (Proof of Address) documents
+- Aadhaar Enrolment Form (can be taken from centre also)
+- Your mobile number (strongly recommended)
+- Exact name and address as per your documents
+
+PoI examples:
+- Voter ID
+- Passport
+- PAN
+- Driving Licence
+- Ration Card with photo
+
+PoA examples:
+- Electricity bill (less than 3 months old)
+- Bank passbook
+- Rent agreement
+- Ration Card
+
+Common mistake:
+Going to the centre without checking whether name and address exactly match the documents.
+
+If stuck, do this:
+If you have no documents, plan to use the Head of Family (HoF) approach — first ensure HoF is available and properly enrolled, then they can introduce you as per the applicable enrolment process.
+
+Expected result:
+You are fully prepared to complete the enrolment in one visit.
+
+Next step:
+Locate and visit the nearest Aadhaar Enrolment Centre.
+
+Microinstructions:
+- Carry original PoI + PoA documents.
+- Carry Aadhaar Enrolment Form if possible.
+- Keep mobile number ready.
+- Make sure name and address match your documents.
+- Check if your mobile number is working.
+- Decide whether to book appointment or do walk-in.
+- If no documents, prepare for HoF approach.
+- Note down nearest centres in advance.
+
+==================================================
+STEP 2: LOCATE AND VISIT THE ENROLMENT CENTRE
+==================================================
+
+Why this step matters:
+You must go to an authorized centre to get a valid enrolment.
+
+Location:
+Nearest Aadhaar Enrolment Centre / MeeSeva Centre / Common Service Centre (CSC) / Sachivalayam (in AP/TS)
+
+What to do:
+- Search “Aadhaar Enrolment Centre near me” on Google, or
+- Visit https://appointments.uidai.gov.in/ and find a centre through district/location search
+- Go to the chosen centre
+- Meet the Aadhaar Operator
+
+Person to meet:
+Meet the Aadhaar Operator at the Aadhaar-marked or UIDAI-marked counter.
+
+Common mistake:
+Going to a centre that only accepts appointments without booking one first.
+
+If stuck, do this:
+In villages and mandal-level centres, walk-in is usually allowed. If the centre says “appointment only”, book free appointment online first.
+
+Expected result:
+You have reached the correct centre and are ready to start the process.
+
+Next step:
+Interact with the operator and submit documents.
+
+Microinstructions:
+- Search centre near you.
+- Use UIDAI website if needed.
+- Select nearest authorised centre.
+- Visit the Aadhaar counter.
+- Meet operator.
+- Ask for token if queue is long.
+- Clearly say you want new Aadhaar enrolment.
+
+==================================================
+STEP 3: SUBMIT POI AND POA DOCUMENTS
+==================================================
+
+Why this step matters:
+Documents are the foundation of your Aadhaar enrolment.
+
+What to do:
+Carry any one PoI and one PoA from the official/accepted list. Show original documents only. The operator should verify them and should not keep the originals.
+
+If no documents:
+Use HoF (Head of Family) approach where applicable. Tell the operator clearly that you do not have documents and need guidance.
+
+Common mistake:
+Carrying photocopies instead of originals or having name/address mismatch.
+
+If stuck, do this:
+Tell the operator if you have no documents so they can guide you on HoF process or other valid enrolment support path.
+
+Expected result:
+Documents are verified successfully.
+
+Next step:
+Fill the enrolment form.
+
+Microinstructions:
+- Carry originals.
+- Show PoI.
+- Show PoA.
+- Ask for HoF guidance if no documents.
+- Ensure operator verifies only.
+- Keep originals with yourself.
+- Match form details to documents exactly.
+
+==================================================
+STEP 4: FILL ENROLMENT FORM
+==================================================
+
+Why this step matters:
+Any mistake in the form, especially name spelling, can lead to rejection or later correction difficulty.
+
+How to fill:
+Operator may give you the form or fill details on the system. If filling manually, use CAPITAL BLOCK LETTERS.
+
+Fields to fill carefully:
+- Full Name exactly as in your PoI document
+- Date of Birth (DD/MM/YYYY)
+- Gender (Male / Female / Transgender)
+- Current full address (must match PoA)
+- Mobile number (strongly recommended)
+- Email (optional but useful)
+- Thumb impression / signature at the bottom right
+
+Common mistake:
+Name spelling mismatch with PoI document.
+
+If stuck, do this:
+Double-check every field with your original document before submitting the form.
+
+Expected result:
+Form is filled correctly.
+
+Next step:
+Biometric capture.
+
+Microinstructions:
+- Fill in CAPITAL BLOCK LETTERS.
+- Write exact full name.
+- Enter correct DOB.
+- Select correct gender.
+- Write exact address.
+- Enter mobile number.
+- Enter email if available.
+- Put thumb impression or signature.
+- Double-check all fields.
+- Watch the operator’s data entry.
+
+==================================================
+STEP 5: BIOMETRIC CAPTURE
+==================================================
+
+Why this step matters:
+Biometrics (photo, fingerprints, iris) are the most important part of Aadhaar enrolment.
+
+What happens:
+The operator will:
+- Take your photograph
+- Capture all 10 fingerprints
+- Capture both iris scans
+
+Action:
+Look straight at the camera. Keep eyes wide open and remain still during iris scan.
+
+Common mistake:
+Poor fingerprint quality due to dry hands, old age, hard labour, worn fingerprints, or eye movement during iris capture.
+
+If stuck, do this:
+Tell the operator: “My fingerprints / iris are not working properly.” They will retry or use exception handling process if applicable.
+
+Expected result:
+Biometrics are successfully captured.
+
+Next step:
+Application submission and acknowledgement.
+
+Microinstructions:
+- Sit in front of camera.
+- Look straight.
+- Give all 10 fingerprints.
+- Keep eyes open and still.
+- Inform operator about weak biometrics.
+- Allow retries.
+- Cooperate in exception process.
+
+==================================================
+STEP 6: SUBMIT & GET ACKNOWLEDGEMENT SLIP
+==================================================
+
+Why this step matters:
+The 28-digit Enrolment ID (EID) is your main proof until Aadhaar is generated.
+
+What happens:
+Operator uploads all data. You receive an acknowledgement slip containing your 28-digit Enrolment ID (EID).
+
+Action:
+Check all details on the slip immediately. Keep it safely.
+
+Common mistake:
+Not checking the slip carefully or losing it.
+
+If stuck, do this:
+If you lose the slip, visit the same centre with any ID proof and request help for duplicate EID or acknowledgement details. You may also use registered mobile-based support on the UIDAI portal if available.
+
+Expected result:
+You have the acknowledgement slip with EID.
+
+Next step:
+Check application status online.
+
+Microinstructions:
+- Wait for upload completion.
+- Collect acknowledgement slip.
+- Check EID.
+- Check name, DOB, address on the slip.
+- Save EID in phone.
+- Keep slip safe.
+
+==================================================
+STEP 7: CHECK APPLICATION STATUS (ONLINE)
+==================================================
+
+Why this step matters:
+You must confirm whether your application is under process or completed.
+
+What to do:
+- Go to https://uidai.gov.in
+- Click “Check Aadhaar Status”
+- Enter 28-digit EID and captcha
+- Submit
+
+Common mistake:
+Checking status too early immediately after enrolment.
+
+If stuck, do this:
+Wait around 15–30 days and check again. If status shows “Processed”, proceed to download e-Aadhaar.
+
+Expected result:
+You know the current status of your application.
+
+Next step:
+Download e-Aadhaar.
+
+Microinstructions:
+- Visit UIDAI website.
+- Open status check page.
+- Enter EID.
+- Enter captcha.
+- Submit.
+- Check again later if needed.
+
+==================================================
+STEP 8: DOWNLOAD e-AADHAAR
+==================================================
+
+Why this step matters:
+The downloaded e-Aadhaar PDF is an official Aadhaar document.
+
+What to do:
+After status shows “Processed”:
+- Use the download option on UIDAI website
+- Enter EID and required details
+- Download the e-Aadhaar PDF
+- Save and print if needed
+
+Expected result:
+You have successfully downloaded your e-Aadhaar.
+
+Next step:
+Follow “I’m Stuck” scenarios if needed.
+
+Microinstructions:
+- Wait for processed status.
+- Open download option.
+- Enter EID and required details.
+- Download PDF.
+- Save PDF.
+- Print if needed.
+
+==================================================
+STEP 9: I’M STUCK – MOBILE NUMBER ALREADY LINKED / NEEDS UPDATE
+==================================================
+
+Why this step matters:
+Sometimes the user wants a new or correct mobile number linked during enrolment.
+
+Action:
+At the centre, tell the operator clearly: “I want to update my mobile number along with new Aadhaar.”
+
+Common mistake:
+Thinking mobile number cannot be given or corrected during enrolment.
+
+Expected result:
+Your mobile number is entered/updated properly during enrolment, as applicable in the centre workflow.
+
+Microinstructions:
+- Tell operator clearly.
+- Give correct mobile number.
+- Confirm entered mobile number before leaving.
+
+==================================================
+STEP 10: I’M STUCK – BIOMETRIC FAILED
+==================================================
+
+Location:
+At the centre
+
+Action:
+Tell the operator: “My fingerprints / iris are not working properly.”
+
+Common mistake:
+Getting worried or leaving the centre without informing the operator.
+
+Solution:
+Operator will retry and may use exception handling process. This is common for elderly people, farmers, labourers, and users with weak biometrics.
+
+Microinstructions:
+- Inform operator immediately.
+- Allow retries.
+- Cooperate in exception process.
+- Stay calm and follow instructions.
+
+==================================================
+STEP 11: I’M STUCK – LOST ACKNOWLEDGEMENT SLIP
+==================================================
+
+Action:
+- Visit the same enrolment centre with any ID proof and request duplicate EID/help, or
+- Use registered mobile number on UIDAI portal if available for status/help options
+
+Microinstructions:
+- Return to same centre.
+- Carry ID proof.
+- Ask for duplicate acknowledgement/EID support.
+- Use mobile-based portal support if available.
+- Save future references carefully.
+
+==================================================
+STEP 12: I AM AT THE CENTRE NOW – WHAT NEXT?
+==================================================
+
+Action:
+Go to the Aadhaar counter and wait for your turn. If queue is long, ask for token number.
+
+Microinstructions:
+- Go to Aadhaar counter.
+- Wait for turn.
+- Ask for token if needed.
+- Keep documents ready.
+- Tell operator you want new Aadhaar enrolment.
+
+==================================================
+STEP 13: OPERATOR SAYS COME TOMORROW
+==================================================
+
+Action:
+Ask for exact next available time and note it down. Confirm your documents are sufficient. Come early the next day.
+
+Microinstructions:
+- Ask exact date and time.
+- Note it down.
+- Confirm documents are enough.
+- Come early next day.
+- Carry all documents again.
+
+==================================================
+STEP 14: UPDATE MOBILE NUMBER LATER (IF NEEDED)
+==================================================
+
+What to do:
+After Aadhaar is generated, use the appropriate UIDAI update path as applicable. Follow the official UIDAI instructions for mobile number update.
+
+Microinstructions:
+- Visit UIDAI website after Aadhaar generation.
+- Open My Aadhaar section.
+- Follow official mobile update instructions.
+- Use Aadhaar details as required by the portal/workflow.
+
+==================================================
+COMMON ERRORS AND EXACT SOLUTIONS
+==================================================
+
+Problem: Centre says “Appointment only”
+Solution:
+Book free appointment first on the UIDAI appointments website.
+
+Problem: Name spelling mismatch
+Solution:
+Ensure the name is written exactly as in PoI. Double-check before submission.
+
+Problem: Address mismatch
+Solution:
+Write the address exactly as in PoA. Do not use informal or incomplete address.
+
+Problem: Biometric failure (especially elderly/farmers)
+Solution:
+Tell operator immediately. They will retry or use exception process.
+
+Problem: Lost acknowledgement slip
+Solution:
+Visit the same centre for duplicate help or use registered mobile-based support if available.
+
+Problem: Mobile number needs update
+Solution:
+Tell operator during enrolment to enter/update the correct mobile number.
+
+Problem: No documents available
+Solution:
+Use Head of Family (HoF) enrolment method where applicable.
+
+Problem: Queue is too long
+Solution:
+Ask for token number or less crowded time and return accordingly.
+
+Problem: Operator says “come tomorrow”
+Solution:
+Ask exact date/time and confirm document sufficiency before leaving.
+
+==================================================
+FAQ / USER DOUBTS
+==================================================
+
+Question: Is Aadhaar enrolment free?
+Answer:
+Yes, at official centres. Some private operators may charge service fees, so ask clearly before starting.
+
+Question: Can I do it without documents?
+Answer:
+Yes, through Head of Family (HoF) method where applicable.
+
+Question: How long does it take for Aadhaar to be ready?
+Answer:
+Usually 15–30 days, though actual time may vary.
+
+Question: Can elderly people with poor fingerprints get Aadhaar?
+Answer:
+Yes. Exception process is available and commonly used.
+
+Question: Is appointment compulsory?
+Answer:
+Not always. In many villages and mandals, walk-in is common. Some centres may require appointment.
+
+Question: Can I apply at MeeSeva or CSC?
+Answer:
+Yes, if Aadhaar enrolment services are available there.
+
+Question: Should I carry originals or photocopies?
+Answer:
+Carry originals for verification.
+
+Question: Is mobile number compulsory?
+Answer:
+Strongly recommended, though not always mandatory in every scenario.
+
+Question: What is EID?
+Answer:
+EID is the 28-digit Enrolment ID given on the acknowledgement slip.
+
+Question: Can I download Aadhaar after processing?
+Answer:
+Yes. Once processed, you can download e-Aadhaar from UIDAI.
+
+==================================================
+EXPANDED FAQ SUPPORT SET (ADDITIONAL USER DOUBTS)
+==================================================
+
+1. Can I go without appointment?
+Yes, in many village and mandal centres walk-in is common. If the centre says appointment only, book first.
+
+2. What if I reach the centre and they refuse walk-in?
+Ask whether appointment is needed and book a free slot.
+
+3. Can I fill the form at the centre?
+Yes. The form is usually available free at the centre.
+
+4. Can the operator fill the form for me?
+Yes, but you must watch carefully and verify every detail.
+
+5. Should my mobile number be active?
+Yes, it is strongly recommended to use an active mobile number.
+
+6. Can I use someone else’s mobile number?
+It is better to use your own active number whenever possible.
+
+7. Is email compulsory?
+No, but it is useful if available.
+
+8. What if I do not know English?
+Ask the operator for help. Centres usually assist applicants directly.
+
+9. Can women, elderly persons, and farmers apply the same way?
+Yes, this enrolment process is for all first-time applicants.
+
+10. What if my fingerprints are worn out?
+Tell the operator. Exception handling may be used.
+
+11. What if I cannot keep my eyes open properly for iris scan?
+Tell the operator and follow their instructions carefully.
+
+12. Is photo compulsory?
+Yes, Aadhaar enrolment includes biometric photo capture.
+
+13. Can I wear normal clothes for photo?
+Yes, but keep your face clearly visible.
+
+14. Should I bring passport-size photos?
+Usually not necessary for biometric photo capture, but carrying one is not harmful if the centre asks for support in any local process.
+
+15. What if my name is long?
+Write it exactly as per your identity proof.
+
+16. Can initials be used?
+Use them only if they are part of your official document name.
+
+17. What if my address is slightly different in my document and what I normally use?
+Use the address exactly as in your Proof of Address document.
+
+18. What if the operator entered wrong spelling?
+Ask for correction immediately before final submission.
+
+19. What if my date of birth is entered incorrectly?
+Correct it immediately before submission.
+
+20. What if the centre is too crowded?
+Ask for a token or ask the best time to return.
+
+21. Can I send someone else on my behalf?
+No. Fresh Aadhaar enrolment requires your physical presence for biometrics.
+
+22. Why is physical presence necessary?
+Because your photograph, fingerprints, and iris must be captured.
+
+23. Can I get Aadhaar without biometrics?
+Biometric capture is a core part of enrolment; exception handling is used when quality is weak.
+
+24. What if the operator asks for extra money?
+At official centres enrolment is free. Ask clearly what the charge is for, and avoid unauthorized extra charges.
+
+25. How do I know whether a centre is official?
+Use UIDAI centre locator or visit known government-supported centres like MeeSeva, CSC, or Sachivalayam where applicable.
+
+26. What if I have only one document?
+Ask the operator whether it qualifies and what additional requirement must be met.
+
+27. Can PAN be used as identity proof?
+Yes, PAN is one of the common PoI examples mentioned.
+
+28. Can bank passbook be used for address proof?
+Yes, bank passbook is commonly used as PoA if acceptable and valid.
+
+29. Can ration card be used?
+Yes, ration card may be used depending on whether it matches PoI/PoA requirements.
+
+30. What if my electricity bill is old?
+Use a recent one as required, especially if a recent validity condition applies.
+
+31. How do I know my enrolment is submitted?
+You will receive an acknowledgement slip with EID.
+
+32. Is acknowledgement slip enough until Aadhaar is generated?
+Yes, it is your main proof of submission.
+
+33. What if I forgot to check the slip before leaving?
+Check it as early as possible; if there is a problem, revisit the centre.
+
+34. Can I track Aadhaar using EID?
+Yes, EID is used for status tracking.
+
+35. How many days should I wait before checking?
+Usually give some reasonable processing time; 15–30 days is commonly mentioned.
+
+36. What if status shows not processed yet?
+Wait and check again later.
+
+37. What if status shows processed?
+Proceed to download e-Aadhaar.
+
+38. Is e-Aadhaar valid everywhere?
+Yes, the downloaded e-Aadhaar is an official Aadhaar document.
+
+39. Should I print e-Aadhaar?
+It is useful to print and also keep the PDF saved.
+
+40. Can I keep only soft copy?
+You can keep soft copy, but having both soft and hard copy is better.
+
+41. What if I lose my phone where EID was saved?
+Use the acknowledgement slip or revisit the centre for help.
+
+42. What if I lose both slip and phone record?
+Visit the same centre with ID proof and ask for help.
+
+43. Can I update mobile later?
+Yes, after Aadhaar generation you can follow UIDAI’s official update path.
+
+44. Should I keep screenshots?
+Yes, keeping screenshots and references is a good practice.
+
+45. Should I stay while operator uploads data?
+Yes, stay present until you receive the acknowledgement slip.
+
+46. What if my village has only one centre and it is closed?
+Check nearby mandal or town centres through UIDAI locator.
+
+47. Can I go to Sachivalayam in AP/TS?
+Yes, where Aadhaar enrolment service is available.
+
+48. What if the operator is busy and asks me to leave documents?
+Do not leave original documents unnecessarily. Stay present and complete the process properly.
+
+49. What if I am unsure about HoF method?
+Ask the operator at the centre for the exact applicable process and required details.
+
+50. When is the fresh Aadhaar enrolment fully complete?
+It is fully complete after your application is processed and you successfully download your e-Aadhaar PDF.
+
+==================================================
+FINAL USER REMINDER
+==================================================
+
+Before submitting the form, check your name spelling, date of birth, address, and mobile number very carefully. Keep the acknowledgement slip safely until you download your e-Aadhaar. A small mistake can delay your Aadhaar generation.
+
+==================================================
+ADDITIONAL BEST-PRACTICE NOTES
+==================================================
+
+- Always carry original documents only.
+- Stay present and watch while the operator fills your form.
+- Keep both soft copy and hard copy of acknowledgement slip.
+- Check status only after reasonable processing time, often around 15–30 days.
+- If using HoF method, make sure the HoF path is properly understood and applicable.
+- Keep screenshots of status check or download steps.
+- Once you download the e-Aadhaar PDF, your new Aadhaar enrolment is complete.
+- Ask service charges clearly before starting if you are at a private service location.
+- Do not leave the centre without acknowledgement slip and EID.
